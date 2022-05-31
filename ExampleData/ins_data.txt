@@ -1,0 +1,12384 @@
+header: 
+  seq: 0
+  stamp: 
+    secs: 1652992540
+    nsecs: 807979644
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.38
+GPS_IMU_Time: 259256.385021
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000941
+  y: -77.389999463
+  z: -0.008
+YPR: 
+  x: 152.531
+  y: -0.054
+  z: 0.195
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 1
+  stamp: 
+    secs: 1652992540
+    nsecs: 828956470
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.4
+GPS_IMU_Time: 259256.405022
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000941
+  y: -77.389999463
+  z: -0.008
+YPR: 
+  x: 152.534
+  y: -0.054
+  z: 0.194
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 2
+  stamp: 
+    secs: 1652992540
+    nsecs: 849956906
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.42
+GPS_IMU_Time: 259256.425023
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000941
+  y: -77.389999464
+  z: -0.008
+YPR: 
+  x: 152.533
+  y: -0.056
+  z: 0.196
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 3
+  stamp: 
+    secs: 1652992540
+    nsecs: 871068895
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.44
+GPS_IMU_Time: 259256.445025
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000941
+  y: -77.389999464
+  z: -0.008
+YPR: 
+  x: 152.533
+  y: -0.059
+  z: 0.193
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 4
+  stamp: 
+    secs: 1652992540
+    nsecs: 886952182
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.46
+GPS_IMU_Time: 259256.465027
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000941
+  y: -77.389999464
+  z: -0.008
+YPR: 
+  x: 152.53
+  y: -0.054
+  z: 0.191
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 5
+  stamp: 
+    secs: 1652992540
+    nsecs: 908029691
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.48
+GPS_IMU_Time: 259256.485027
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000942
+  y: -77.389999464
+  z: -0.008
+YPR: 
+  x: 152.527
+  y: -0.054
+  z: 0.192
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 6
+  stamp: 
+    secs: 1652992540
+    nsecs: 928928408
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.5
+GPS_IMU_Time: 259256.505028
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000942
+  y: -77.389999465
+  z: -0.008
+YPR: 
+  x: 152.546
+  y: -0.051
+  z: 0.18
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 7
+  stamp: 
+    secs: 1652992540
+    nsecs: 949970732
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.52
+GPS_IMU_Time: 259256.524959
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000941
+  y: -77.389999466
+  z: -0.009
+YPR: 
+  x: 152.601
+  y: -0.054
+  z: 0.186
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 8
+  stamp: 
+    secs: 1652992540
+    nsecs: 971035519
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.54
+GPS_IMU_Time: 259256.54496
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000942
+  y: -77.389999466
+  z: -0.009
+YPR: 
+  x: 152.603
+  y: -0.056
+  z: 0.187
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 9
+  stamp: 
+    secs: 1652992540
+    nsecs: 986923232
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.56
+GPS_IMU_Time: 259256.564962
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000942
+  y: -77.389999466
+  z: -0.009
+YPR: 
+  x: 152.603
+  y: -0.049
+  z: 0.188
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 10
+  stamp: 
+    secs: 1652992541
+    nsecs:   7968167
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.58
+GPS_IMU_Time: 259256.584963
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000942
+  y: -77.389999467
+  z: -0.009
+YPR: 
+  x: 152.607
+  y: -0.05
+  z: 0.189
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 11
+  stamp: 
+    secs: 1652992541
+    nsecs:  28895568
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.6
+GPS_IMU_Time: 259256.604964
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000941
+  y: -77.389999468
+  z: -0.009
+YPR: 
+  x: 152.716
+  y: -0.046
+  z: 0.184
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 12
+  stamp: 
+    secs: 1652992541
+    nsecs:  49957855
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.62
+GPS_IMU_Time: 259256.624965
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000939
+  y: -77.389999471
+  z: -0.009
+YPR: 
+  x: 152.97
+  y: -0.044
+  z: 0.175
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.01
+  y: -0.01
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 13
+  stamp: 
+    secs: 1652992541
+    nsecs:  71231766
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.64
+GPS_IMU_Time: 259256.644966
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000937
+  y: -77.389999476
+  z: -0.009
+YPR: 
+  x: 153.276
+  y: -0.041
+  z: 0.177
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.01
+  y: -0.01
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 14
+  stamp: 
+    secs: 1652992541
+    nsecs:  86991982
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.66
+GPS_IMU_Time: 259256.664969
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000935
+  y: -77.38999948
+  z: -0.009
+YPR: 
+  x: 153.521
+  y: -0.037
+  z: 0.192
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.02
+  y: -0.01
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 15
+  stamp: 
+    secs: 1652992541
+    nsecs: 107951253
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.68
+GPS_IMU_Time: 259256.684969
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000093
+  y: -77.389999486
+  z: -0.009
+YPR: 
+  x: 153.826
+  y: -0.036
+  z: 0.226
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.03
+  y: -0.03
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 16
+  stamp: 
+    secs: 1652992541
+    nsecs: 128879007
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.7
+GPS_IMU_Time: 259256.70497
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000919
+  y: -77.389999495
+  z: -0.009
+YPR: 
+  x: 154.248
+  y: -0.02
+  z: 0.33
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: -0.07
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 17
+  stamp: 
+    secs: 1652992541
+    nsecs: 149916942
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.72
+GPS_IMU_Time: 259256.724973
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000901
+  y: -77.389999509
+  z: -0.009
+YPR: 
+  x: 155.339
+  y: 0.049
+  z: 1.0
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.07
+  y: -0.11
+  z: 0.03
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 18
+  stamp: 
+    secs: 1652992541
+    nsecs: 170877509
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.74
+GPS_IMU_Time: 259256.744972
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000879
+  y: -77.389999528
+  z: -0.007
+YPR: 
+  x: 157.574
+  y: 0.366
+  z: 2.577
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.09
+  y: -0.12
+  z: 0.08
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 19
+  stamp: 
+    secs: 1652992541
+    nsecs: 186970106
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.76
+GPS_IMU_Time: 259256.764973
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000858
+  y: -77.389999552
+  z: -0.005
+YPR: 
+  x: 160.329
+  y: 1.056
+  z: 5.141
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.12
+  y: -0.12
+  z: 0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 20
+  stamp: 
+    secs: 1652992541
+    nsecs: 207854453
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.78
+GPS_IMU_Time: 259256.784974
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000835
+  y: -77.389999586
+  z: -0.003
+YPR: 
+  x: 163.224
+  y: 1.959
+  z: 8.107
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.17
+  y: -0.13
+  z: 0.12
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 21
+  stamp: 
+    secs: 1652992541
+    nsecs: 228916721
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.8
+GPS_IMU_Time: 259256.804976
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000808
+  y: -77.389999633
+  z: 0.0
+YPR: 
+  x: 166.32
+  y: 3.093
+  z: 10.784
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.23
+  y: -0.16
+  z: 0.13
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 22
+  stamp: 
+    secs: 1652992541
+    nsecs: 249960027
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.82
+GPS_IMU_Time: 259256.824977
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000774
+  y: -77.389999696
+  z: 0.001
+YPR: 
+  x: 169.383
+  y: 4.696
+  z: 12.642
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.3
+  y: -0.2
+  z: 0.15
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 23
+  stamp: 
+    secs: 1652992541
+    nsecs: 270965353
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.84
+GPS_IMU_Time: 259256.844978
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000735
+  y: -77.389999772
+  z: 0.005
+YPR: 
+  x: 172.278
+  y: 6.675
+  z: 13.923
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.34
+  y: -0.21
+  z: 0.22
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 24
+  stamp: 
+    secs: 1652992541
+    nsecs: 286845529
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.86
+GPS_IMU_Time: 259256.864979
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000697
+  y: -77.389999854
+  z: 0.01
+YPR: 
+  x: 175.122
+  y: 8.894
+  z: 15.232
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.36
+  y: -0.2
+  z: 0.3
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 25
+  stamp: 
+    secs: 1652992541
+    nsecs: 307890779
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.88
+GPS_IMU_Time: 259256.88498
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000662
+  y: -77.389999942
+  z: 0.017
+YPR: 
+  x: 178.063
+  y: 11.403
+  z: 16.909
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.39
+  y: -0.18
+  z: 0.39
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 26
+  stamp: 
+    secs: 1652992541
+    nsecs: 328837902
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.9
+GPS_IMU_Time: 259256.904982
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000634
+  y: -77.390000035
+  z: 0.026
+YPR: 
+  x: 180.698
+  y: 13.638
+  z: 18.727
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.4
+  y: -0.13
+  z: 0.46
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 27
+  stamp: 
+    secs: 1652992541
+    nsecs: 349876226
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.92
+GPS_IMU_Time: 259256.924983
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000612
+  y: -77.39000013
+  z: 0.036
+YPR: 
+  x: 183.031
+  y: 15.893
+  z: 20.671
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.42
+  y: -0.1
+  z: 0.51
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 28
+  stamp: 
+    secs: 1652992541
+    nsecs: 370824572
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.94
+GPS_IMU_Time: 259256.944985
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000594
+  y: -77.390000234
+  z: 0.046
+YPR: 
+  x: 185.395
+  y: 18.375
+  z: 22.236
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.46
+  y: -0.08
+  z: 0.55
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 29
+  stamp: 
+    secs: 1652992541
+    nsecs: 386965056
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.96
+GPS_IMU_Time: 259256.964985
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000582
+  y: -77.390000343
+  z: 0.058
+YPR: 
+  x: 187.887
+  y: 20.853
+  z: 23.855
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.47
+  y: -0.04
+  z: 0.61
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 30
+  stamp: 
+    secs: 1652992541
+    nsecs: 407874902
+  frame_id: "F2003127"
+GPS_INS_Time: 259256.98
+GPS_IMU_Time: 259256.984986
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000578
+  y: -77.390000453
+  z: 0.071
+YPR: 
+  x: 190.395
+  y: 23.328
+  z: 25.867
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.47
+  y: 0.0
+  z: 0.66
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 31
+  stamp: 
+    secs: 1652992541
+    nsecs: 428799322
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.0
+GPS_IMU_Time: 259257.004987
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000582
+  y: -77.390000561
+  z: 0.084
+YPR: 
+  x: 192.788
+  y: 25.759
+  z: 27.898
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.45
+  y: 0.04
+  z: 0.67
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 32
+  stamp: 
+    secs: 1652992541
+    nsecs: 449904830
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.02
+GPS_IMU_Time: 259257.024991
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000595
+  y: -77.390000663
+  z: 0.098
+YPR: 
+  x: 195.034
+  y: 28.06
+  z: 29.767
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.42
+  y: 0.09
+  z: 0.68
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 33
+  stamp: 
+    secs: 1652992541
+    nsecs: 470929007
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.04
+GPS_IMU_Time: 259257.04499
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000615
+  y: -77.390000758
+  z: 0.112
+YPR: 
+  x: 197.178
+  y: 30.317
+  z: 31.59
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.39
+  y: 0.13
+  z: 0.71
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 34
+  stamp: 
+    secs: 1652992541
+    nsecs: 486796239
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.06
+GPS_IMU_Time: 259257.064991
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000643
+  y: -77.390000845
+  z: 0.126
+YPR: 
+  x: 199.229
+  y: 32.812
+  z: 33.448
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.34
+  y: 0.18
+  z: 0.74
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 35
+  stamp: 
+    secs: 1652992541
+    nsecs: 507841230
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.08
+GPS_IMU_Time: 259257.084992
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000681
+  y: -77.390000917
+  z: 0.141
+YPR: 
+  x: 201.024
+  y: 35.673
+  z: 35.291
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.28
+  y: 0.23
+  z: 0.76
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 36
+  stamp: 
+    secs: 1652992541
+    nsecs: 528772168
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.1
+GPS_IMU_Time: 259257.104995
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000729
+  y: -77.390000975
+  z: 0.157
+YPR: 
+  x: 202.676
+  y: 38.892
+  z: 37.241
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.21
+  y: 0.29
+  z: 0.78
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 37
+  stamp: 
+    secs: 1652992541
+    nsecs: 549919972
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.12
+GPS_IMU_Time: 259257.124995
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000787
+  y: -77.390001017
+  z: 0.173
+YPR: 
+  x: 204.431
+  y: 42.34
+  z: 39.642
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.14
+  y: 0.34
+  z: 0.79
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 38
+  stamp: 
+    secs: 1652992541
+    nsecs: 570895779
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.14
+GPS_IMU_Time: 259257.144996
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000853
+  y: -77.390001043
+  z: 0.189
+YPR: 
+  x: 206.245
+  y: 45.794
+  z: 42.482
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.07
+  y: 0.39
+  z: 0.79
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 39
+  stamp: 
+    secs: 1652992541
+    nsecs: 586845639
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.16
+GPS_IMU_Time: 259257.164997
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000928
+  y: -77.390001054
+  z: 0.204
+YPR: 
+  x: 208.089
+  y: 49.299
+  z: 45.651
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.02
+  y: 0.44
+  z: 0.78
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 40
+  stamp: 
+    secs: 1652992541
+    nsecs: 607867667
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.18
+GPS_IMU_Time: 259257.185
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001011
+  y: -77.390001056
+  z: 0.22
+YPR: 
+  x: 210.423
+  y: 53.108
+  z: 49.432
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.48
+  z: 0.78
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 41
+  stamp: 
+    secs: 1652992541
+    nsecs: 628765088
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.2
+GPS_IMU_Time: 259257.204999
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001101
+  y: -77.39000105
+  z: 0.236
+YPR: 
+  x: 213.47
+  y: 57.302
+  z: 53.957
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.04
+  y: 0.52
+  z: 0.76
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 42
+  stamp: 
+    secs: 1652992541
+    nsecs: 649757154
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.22
+GPS_IMU_Time: 259257.225001
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001198
+  y: -77.390001035
+  z: 0.251
+YPR: 
+  x: 217.078
+  y: 61.661
+  z: 59.303
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.08
+  y: 0.55
+  z: 0.71
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 43
+  stamp: 
+    secs: 1652992541
+    nsecs: 670863070
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.24
+GPS_IMU_Time: 259257.245004
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.0400013
+  y: -77.39000101
+  z: 0.264
+YPR: 
+  x: 220.921
+  y: 65.829
+  z: 65.342
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.13
+  y: 0.56
+  z: 0.64
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 44
+  stamp: 
+    secs: 1652992541
+    nsecs: 686899594
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.26
+GPS_IMU_Time: 259257.265005
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001402
+  y: -77.390000974
+  z: 0.276
+YPR: 
+  x: 224.888
+  y: 69.469
+  z: 72.045
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.17
+  y: 0.56
+  z: 0.56
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 45
+  stamp: 
+    secs: 1652992541
+    nsecs: 707795940
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.28
+GPS_IMU_Time: 259257.285004
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001501
+  y: -77.390000928
+  z: 0.287
+YPR: 
+  x: 228.643
+  y: 72.524
+  z: 78.862
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.22
+  y: 0.53
+  z: 0.47
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 46
+  stamp: 
+    secs: 1652992541
+    nsecs: 728726675
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.3
+GPS_IMU_Time: 259257.305006
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001594
+  y: -77.390000872
+  z: 0.295
+YPR: 
+  x: 231.317
+  y: 75.055
+  z: 84.517
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.26
+  y: 0.49
+  z: 0.37
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 47
+  stamp: 
+    secs: 1652992541
+    nsecs: 749889293
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.32
+GPS_IMU_Time: 259257.325006
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001679
+  y: -77.390000805
+  z: 0.302
+YPR: 
+  x: 232.166
+  y: 77.078
+  z: 88.144
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.31
+  y: 0.44
+  z: 0.28
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 48
+  stamp: 
+    secs: 1652992541
+    nsecs: 770718900
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.34
+GPS_IMU_Time: 259257.345007
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001753
+  y: -77.390000729
+  z: 0.307
+YPR: 
+  x: 230.624
+  y: 78.7
+  z: 89.235
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.34
+  y: 0.38
+  z: 0.19
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 49
+  stamp: 
+    secs: 1652992541
+    nsecs: 786776868
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.36
+GPS_IMU_Time: 259257.365009
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001814
+  y: -77.390000645
+  z: 0.31
+YPR: 
+  x: 227.298
+  y: 80.172
+  z: 87.988
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.37
+  y: 0.29
+  z: 0.1
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 50
+  stamp: 
+    secs: 1652992541
+    nsecs: 807710380
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.38
+GPS_IMU_Time: 259257.38501
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001859
+  y: -77.390000555
+  z: 0.311
+YPR: 
+  x: 221.922
+  y: 81.699
+  z: 83.832
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.39
+  y: 0.2
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 51
+  stamp: 
+    secs: 1652992541
+    nsecs: 828706706
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.4
+GPS_IMU_Time: 259257.405011
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001891
+  y: -77.39000046
+  z: 0.31
+YPR: 
+  x: 210.205
+  y: 83.216
+  z: 72.512
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.42
+  y: 0.15
+  z: -0.08
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 52
+  stamp: 
+    secs: 1652992541
+    nsecs: 849834417
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.42
+GPS_IMU_Time: 259257.425012
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001916
+  y: -77.39000036
+  z: 0.307
+YPR: 
+  x: 186.941
+  y: 84.033
+  z: 49.7
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.43
+  y: 0.12
+  z: -0.18
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 53
+  stamp: 
+    secs: 1652992541
+    nsecs: 870697320
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.44
+GPS_IMU_Time: 259257.445014
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001935
+  y: -77.390000257
+  z: 0.303
+YPR: 
+  x: 158.23
+  y: 83.054
+  z: 21.6
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.45
+  y: 0.08
+  z: -0.29
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 54
+  stamp: 
+    secs: 1652992541
+    nsecs: 886829508
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.46
+GPS_IMU_Time: 259257.465015
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001948
+  y: -77.390000148
+  z: 0.296
+YPR: 
+  x: 138.799
+  y: 80.004
+  z: 2.672
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.48
+  y: 0.05
+  z: -0.39
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 55
+  stamp: 
+    secs: 1652992541
+    nsecs: 907928479
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.48
+GPS_IMU_Time: 259257.485017
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001956
+  y: -77.390000036
+  z: 0.287
+YPR: 
+  x: 129.669
+  y: 75.817
+  z: -5.87
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.47
+  y: 0.04
+  z: -0.48
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 56
+  stamp: 
+    secs: 1652992541
+    nsecs: 928679422
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.5
+GPS_IMU_Time: 259257.50502
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001965
+  y: -77.38999993
+  z: 0.277
+YPR: 
+  x: 125.516
+  y: 71.214
+  z: -8.961
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.43
+  y: 0.05
+  z: -0.53
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 57
+  stamp: 
+    secs: 1652992541
+    nsecs: 949802004
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.52
+GPS_IMU_Time: 259257.524948
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001977
+  y: -77.389999835
+  z: 0.266
+YPR: 
+  x: 123.788
+  y: 66.488
+  z: -9.455
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.39
+  y: 0.07
+  z: -0.56
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 58
+  stamp: 
+    secs: 1652992541
+    nsecs: 970664462
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.54
+GPS_IMU_Time: 259257.54495
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001992
+  y: -77.389999747
+  z: 0.254
+YPR: 
+  x: 122.891
+  y: 61.97
+  z: -8.868
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.36
+  y: 0.08
+  z: -0.57
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 59
+  stamp: 
+    secs: 1652992541
+    nsecs: 986664580
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.56
+GPS_IMU_Time: 259257.56495
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002008
+  y: -77.389999666
+  z: 0.242
+YPR: 
+  x: 121.928
+  y: 57.597
+  z: -8.386
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.32
+  y: 0.08
+  z: -0.6
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 60
+  stamp: 
+    secs: 1652992542
+    nsecs:   7715626
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.58
+GPS_IMU_Time: 259257.584952
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002021
+  y: -77.389999594
+  z: 0.23
+YPR: 
+  x: 120.852
+  y: 53.31
+  z: -8.345
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.29
+  y: 0.07
+  z: -0.62
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 61
+  stamp: 
+    secs: 1652992542
+    nsecs:  28708008
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.6
+GPS_IMU_Time: 259257.604953
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002034
+  y: -77.389999531
+  z: 0.217
+YPR: 
+  x: 119.956
+  y: 49.162
+  z: -8.161
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.25
+  y: 0.06
+  z: -0.64
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 62
+  stamp: 
+    secs: 1652992542
+    nsecs:  49691204
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.62
+GPS_IMU_Time: 259257.624954
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002043
+  y: -77.389999478
+  z: 0.204
+YPR: 
+  x: 119.454
+  y: 45.042
+  z: -7.721
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.21
+  y: 0.04
+  z: -0.66
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 63
+  stamp: 
+    secs: 1652992542
+    nsecs:  70732103
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.64
+GPS_IMU_Time: 259257.644955
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000205
+  y: -77.389999434
+  z: 0.191
+YPR: 
+  x: 119.223
+  y: 40.924
+  z: -7.163
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.16
+  y: 0.03
+  z: -0.65
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 64
+  stamp: 
+    secs: 1652992542
+    nsecs:  86702092
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.66
+GPS_IMU_Time: 259257.664956
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002056
+  y: -77.389999399
+  z: 0.178
+YPR: 
+  x: 119.095
+  y: 37.132
+  z: -6.522
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.13
+  y: 0.02
+  z: -0.63
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 65
+  stamp: 
+    secs: 1652992542
+    nsecs: 107638715
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.68
+GPS_IMU_Time: 259257.684958
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002059
+  y: -77.38999937
+  z: 0.166
+YPR: 
+  x: 119.209
+  y: 33.952
+  z: -5.635
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.11
+  y: 0.0
+  z: -0.59
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 66
+  stamp: 
+    secs: 1652992542
+    nsecs: 128719168
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.7
+GPS_IMU_Time: 259257.704959
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002057
+  y: -77.389999344
+  z: 0.154
+YPR: 
+  x: 119.693
+  y: 31.233
+  z: -4.387
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.09
+  y: -0.02
+  z: -0.56
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 67
+  stamp: 
+    secs: 1652992542
+    nsecs: 149629181
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.72
+GPS_IMU_Time: 259257.72496
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002049
+  y: -77.389999324
+  z: 0.143
+YPR: 
+  x: 120.615
+  y: 28.648
+  z: -2.878
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.07
+  y: -0.07
+  z: -0.55
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 68
+  stamp: 
+    secs: 1652992542
+    nsecs: 170738930
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.74
+GPS_IMU_Time: 259257.744961
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000203
+  y: -77.389999309
+  z: 0.132
+YPR: 
+  x: 121.921
+  y: 26.16
+  z: -1.601
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.05
+  y: -0.13
+  z: -0.55
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 69
+  stamp: 
+    secs: 1652992542
+    nsecs: 186675234
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.76
+GPS_IMU_Time: 259257.764962
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002001
+  y: -77.389999297
+  z: 0.121
+YPR: 
+  x: 123.111
+  y: 23.994
+  z: -1.073
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.04
+  y: -0.18
+  z: -0.55
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 70
+  stamp: 
+    secs: 1652992542
+    nsecs: 207625895
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.78
+GPS_IMU_Time: 259257.784964
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001963
+  y: -77.38999929
+  z: 0.11
+YPR: 
+  x: 124.246
+  y: 22.127
+  z: -1.198
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.01
+  y: -0.24
+  z: -0.55
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 71
+  stamp: 
+    secs: 1652992542
+    nsecs: 228598647
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.8
+GPS_IMU_Time: 259257.804964
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001916
+  y: -77.389999287
+  z: 0.099
+YPR: 
+  x: 125.773
+  y: 20.42
+  z: -1.374
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: -0.26
+  z: -0.54
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 72
+  stamp: 
+    secs: 1652992542
+    nsecs: 249580880
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.82
+GPS_IMU_Time: 259257.824966
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001869
+  y: -77.389999285
+  z: 0.088
+YPR: 
+  x: 127.485
+  y: 18.763
+  z: -1.001
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: -0.25
+  z: -0.52
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 73
+  stamp: 
+    secs: 1652992542
+    nsecs: 270582428
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.84
+GPS_IMU_Time: 259257.844968
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001823
+  y: -77.389999284
+  z: 0.078
+YPR: 
+  x: 129.235
+  y: 17.055
+  z: -0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: -0.26
+  z: -0.5
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 74
+  stamp: 
+    secs: 1652992542
+    nsecs: 286601119
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.86
+GPS_IMU_Time: 259257.864968
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001774
+  y: -77.389999284
+  z: 0.068
+YPR: 
+  x: 131.259
+  y: 15.358
+  z: 0.776
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: -0.28
+  z: -0.49
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 75
+  stamp: 
+    secs: 1652992542
+    nsecs: 308892116
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.88
+GPS_IMU_Time: 259257.884969
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000172
+  y: -77.389999289
+  z: 0.058
+YPR: 
+  x: 133.489
+  y: 13.738
+  z: 1.544
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.03
+  y: -0.3
+  z: -0.49
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 76
+  stamp: 
+    secs: 1652992542
+    nsecs: 329565098
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.9
+GPS_IMU_Time: 259257.904971
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001663
+  y: -77.389999299
+  z: 0.048
+YPR: 
+  x: 135.418
+  y: 12.188
+  z: 1.696
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.05
+  y: -0.31
+  z: -0.49
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 77
+  stamp: 
+    secs: 1652992542
+    nsecs: 350683680
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.92
+GPS_IMU_Time: 259257.924972
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001604
+  y: -77.389999315
+  z: 0.038
+YPR: 
+  x: 137.065
+  y: 10.831
+  z: 1.264
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.08
+  y: -0.33
+  z: -0.47
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 78
+  stamp: 
+    secs: 1652992542
+    nsecs: 366624151
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.94
+GPS_IMU_Time: 259257.944973
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001543
+  y: -77.389999335
+  z: 0.029
+YPR: 
+  x: 138.965
+  y: 9.763
+  z: 0.674
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.08
+  y: -0.33
+  z: -0.44
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 79
+  stamp: 
+    secs: 1652992542
+    nsecs: 388752041
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.96
+GPS_IMU_Time: 259257.964974
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001487
+  y: -77.389999353
+  z: 0.02
+YPR: 
+  x: 140.66
+  y: 8.749
+  z: 0.561
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.07
+  y: -0.28
+  z: -0.41
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 80
+  stamp: 
+    secs: 1652992542
+    nsecs: 409563705
+  frame_id: "F2003127"
+GPS_INS_Time: 259257.98
+GPS_IMU_Time: 259257.984975
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001437
+  y: -77.389999369
+  z: 0.012
+YPR: 
+  x: 141.948
+  y: 7.599
+  z: 0.792
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.07
+  y: -0.26
+  z: -0.37
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 81
+  stamp: 
+    secs: 1652992542
+    nsecs: 430655861
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.0
+GPS_IMU_Time: 259258.004976
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000139
+  y: -77.389999385
+  z: 0.005
+YPR: 
+  x: 143.246
+  y: 6.579
+  z: 1.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.05
+  y: -0.24
+  z: -0.3
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 82
+  stamp: 
+    secs: 1652992542
+    nsecs: 446817864
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.02
+GPS_IMU_Time: 259258.024978
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001353
+  y: -77.389999388
+  z: 0.001
+YPR: 
+  x: 144.643
+  y: 5.494
+  z: 3.333
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.01
+  y: -0.17
+  z: -0.14
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 83
+  stamp: 
+    secs: 1652992542
+    nsecs: 468616077
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.04
+GPS_IMU_Time: 259258.044979
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001323
+  y: -77.389999383
+  z: -0.001
+YPR: 
+  x: 146.202
+  y: 4.044
+  z: 6.259
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.01
+  y: -0.18
+  z: -0.09
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 84
+  stamp: 
+    secs: 1652992542
+    nsecs: 489714067
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.06
+GPS_IMU_Time: 259258.06498
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001289
+  y: -77.389999381
+  z: -0.002
+YPR: 
+  x: 147.7
+  y: 3.457
+  z: 7.864
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: -0.18
+  z: -0.05
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 85
+  stamp: 
+    secs: 1652992542
+    nsecs: 510501009
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.08
+GPS_IMU_Time: 259258.084983
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001259
+  y: -77.389999382
+  z: -0.003
+YPR: 
+  x: 148.82
+  y: 3.179
+  z: 8.874
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: -0.15
+  z: -0.02
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 86
+  stamp: 
+    secs: 1652992542
+    nsecs: 526767786
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.1
+GPS_IMU_Time: 259258.104982
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001233
+  y: -77.389999386
+  z: -0.003
+YPR: 
+  x: 149.664
+  y: 2.896
+  z: 9.424
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.02
+  y: -0.13
+  z: -0.01
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 87
+  stamp: 
+    secs: 1652992542
+    nsecs: 548695922
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.12
+GPS_IMU_Time: 259258.124984
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001211
+  y: -77.389999393
+  z: -0.003
+YPR: 
+  x: 150.404
+  y: 2.729
+  z: 9.573
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.03
+  y: -0.11
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 88
+  stamp: 
+    secs: 1652992542
+    nsecs: 569646656
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.14
+GPS_IMU_Time: 259258.144985
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001193
+  y: -77.389999401
+  z: -0.003
+YPR: 
+  x: 151.082
+  y: 2.677
+  z: 9.721
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.03
+  y: -0.08
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 89
+  stamp: 
+    secs: 1652992542
+    nsecs: 590582113
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.16
+GPS_IMU_Time: 259258.164988
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001182
+  y: -77.389999409
+  z: -0.004
+YPR: 
+  x: 151.606
+  y: 2.438
+  z: 10.057
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.03
+  y: -0.03
+  z: -0.03
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 90
+  stamp: 
+    secs: 1652992542
+    nsecs: 606508066
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.18
+GPS_IMU_Time: 259258.184987
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000118
+  y: -77.389999418
+  z: -0.005
+YPR: 
+  x: 151.902
+  y: 1.706
+  z: 10.498
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.03
+  y: 0.0
+  z: -0.04
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 91
+  stamp: 
+    secs: 1652992542
+    nsecs: 628536273
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.2
+GPS_IMU_Time: 259258.204988
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000118
+  y: -77.389999424
+  z: -0.005
+YPR: 
+  x: 151.899
+  y: 1.291
+  z: 10.675
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.01
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 92
+  stamp: 
+    secs: 1652992542
+    nsecs: 649509192
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.22
+GPS_IMU_Time: 259258.22499
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001181
+  y: -77.389999428
+  z: -0.005
+YPR: 
+  x: 151.826
+  y: 1.41
+  z: 10.601
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.01
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 93
+  stamp: 
+    secs: 1652992542
+    nsecs: 670531850
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.24
+GPS_IMU_Time: 259258.244991
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001183
+  y: -77.389999434
+  z: -0.006
+YPR: 
+  x: 151.807
+  y: 1.382
+  z: 10.541
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.02
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 94
+  stamp: 
+    secs: 1652992542
+    nsecs: 686513691
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.26
+GPS_IMU_Time: 259258.264992
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001184
+  y: -77.389999441
+  z: -0.006
+YPR: 
+  x: 151.868
+  y: 1.326
+  z: 10.571
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.03
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 95
+  stamp: 
+    secs: 1652992542
+    nsecs: 708499436
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.28
+GPS_IMU_Time: 259258.284993
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001184
+  y: -77.389999449
+  z: -0.006
+YPR: 
+  x: 152.056
+  y: 1.272
+  z: 10.622
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.03
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 96
+  stamp: 
+    secs: 1652992542
+    nsecs: 729504984
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.3
+GPS_IMU_Time: 259258.304994
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001184
+  y: -77.389999458
+  z: -0.006
+YPR: 
+  x: 152.209
+  y: 1.234
+  z: 10.682
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.03
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 97
+  stamp: 
+    secs: 1652992542
+    nsecs: 750422737
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.32
+GPS_IMU_Time: 259258.324996
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001184
+  y: -77.389999467
+  z: -0.006
+YPR: 
+  x: 152.327
+  y: 1.246
+  z: 10.793
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 98
+  stamp: 
+    secs: 1652992542
+    nsecs: 766540093
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.34
+GPS_IMU_Time: 259258.344997
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001184
+  y: -77.389999478
+  z: -0.006
+YPR: 
+  x: 152.52
+  y: 1.279
+  z: 10.907
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.05
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 99
+  stamp: 
+    secs: 1652992542
+    nsecs: 788486561
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.36
+GPS_IMU_Time: 259258.364998
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001184
+  y: -77.389999492
+  z: -0.006
+YPR: 
+  x: 152.814
+  y: 1.282
+  z: 11.063
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.07
+  y: 0.0
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 100
+  stamp: 
+    secs: 1652992542
+    nsecs: 809451536
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.38
+GPS_IMU_Time: 259258.384999
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001181
+  y: -77.389999511
+  z: -0.006
+YPR: 
+  x: 153.229
+  y: 1.383
+  z: 11.286
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.08
+  y: -0.01
+  z: 0.01
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 101
+  stamp: 
+    secs: 1652992542
+    nsecs: 830511249
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.4
+GPS_IMU_Time: 259258.405002
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001177
+  y: -77.389999533
+  z: -0.005
+YPR: 
+  x: 153.814
+  y: 1.558
+  z: 11.593
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.1
+  y: -0.02
+  z: 0.02
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 102
+  stamp: 
+    secs: 1652992542
+    nsecs: 846439702
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.42
+GPS_IMU_Time: 259258.425001
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001171
+  y: -77.389999561
+  z: -0.004
+YPR: 
+  x: 154.45
+  y: 1.879
+  z: 11.711
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.12
+  y: -0.03
+  z: 0.05
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 103
+  stamp: 
+    secs: 1652992542
+    nsecs: 868616738
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.44
+GPS_IMU_Time: 259258.445003
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001164
+  y: -77.389999592
+  z: -0.003
+YPR: 
+  x: 155.026
+  y: 2.328
+  z: 11.706
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.13
+  y: -0.04
+  z: 0.09
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 104
+  stamp: 
+    secs: 1652992542
+    nsecs: 889586824
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.46
+GPS_IMU_Time: 259258.465006
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001156
+  y: -77.389999625
+  z: 0.0
+YPR: 
+  x: 155.659
+  y: 2.974
+  z: 11.801
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.14
+  y: -0.04
+  z: 0.14
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 105
+  stamp: 
+    secs: 1652992542
+    nsecs: 910500633
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.48
+GPS_IMU_Time: 259258.485007
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001147
+  y: -77.389999658
+  z: 0.002
+YPR: 
+  x: 156.387
+  y: 3.888
+  z: 12.077
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.14
+  y: -0.04
+  z: 0.19
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 106
+  stamp: 
+    secs: 1652992542
+    nsecs: 926479381
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.5
+GPS_IMU_Time: 259258.505006
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001138
+  y: -77.389999694
+  z: 0.006
+YPR: 
+  x: 157.19
+  y: 4.793
+  z: 12.375
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.17
+  y: -0.04
+  z: 0.21
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 107
+  stamp: 
+    secs: 1652992542
+    nsecs: 948959818
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.52
+GPS_IMU_Time: 259258.524937
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001128
+  y: -77.389999738
+  z: 0.011
+YPR: 
+  x: 158.235
+  y: 5.668
+  z: 12.644
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.19
+  y: -0.06
+  z: 0.27
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 108
+  stamp: 
+    secs: 1652992542
+    nsecs: 969409324
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.54
+GPS_IMU_Time: 259258.544939
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001115
+  y: -77.389999785
+  z: 0.017
+YPR: 
+  x: 159.377
+  y: 7.022
+  z: 12.898
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.21
+  y: -0.07
+  z: 0.35
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 109
+  stamp: 
+    secs: 1652992542
+    nsecs: 990397464
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.56
+GPS_IMU_Time: 259258.564941
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001101
+  y: -77.389999835
+  z: 0.025
+YPR: 
+  x: 160.346
+  y: 9.207
+  z: 12.955
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.21
+  y: -0.07
+  z: 0.43
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 110
+  stamp: 
+    secs: 1652992543
+    nsecs:   6490524
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.58
+GPS_IMU_Time: 259258.584941
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000109
+  y: -77.389999886
+  z: 0.034
+YPR: 
+  x: 161.173
+  y: 12.209
+  z: 12.9
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.22
+  y: -0.04
+  z: 0.48
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 111
+  stamp: 
+    secs: 1652992543
+    nsecs:  28486899
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.6
+GPS_IMU_Time: 259258.604942
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001086
+  y: -77.389999939
+  z: 0.045
+YPR: 
+  x: 161.921
+  y: 15.648
+  z: 12.856
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.23
+  y: 0.0
+  z: 0.54
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 112
+  stamp: 
+    secs: 1652992543
+    nsecs:  49489077
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.62
+GPS_IMU_Time: 259258.624943
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001089
+  y: -77.389999996
+  z: 0.056
+YPR: 
+  x: 162.659
+  y: 19.666
+  z: 12.968
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.25
+  y: 0.03
+  z: 0.62
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 113
+  stamp: 
+    secs: 1652992543
+    nsecs:  70367942
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.64
+GPS_IMU_Time: 259258.644946
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001099
+  y: -77.390000058
+  z: 0.069
+YPR: 
+  x: 163.163
+  y: 24.73
+  z: 13.049
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.28
+  y: 0.08
+  z: 0.68
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 114
+  stamp: 
+    secs: 1652992543
+    nsecs:  86383615
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.66
+GPS_IMU_Time: 259258.664946
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000112
+  y: -77.390000128
+  z: 0.083
+YPR: 
+  x: 163.123
+  y: 30.776
+  z: 12.77
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.31
+  y: 0.15
+  z: 0.7
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 115
+  stamp: 
+    secs: 1652992543
+    nsecs: 108565652
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.68
+GPS_IMU_Time: 259258.684947
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001155
+  y: -77.390000206
+  z: 0.097
+YPR: 
+  x: 162.745
+  y: 37.015
+  z: 12.16
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.35
+  y: 0.23
+  z: 0.67
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 116
+  stamp: 
+    secs: 1652992543
+    nsecs: 129487424
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.7
+GPS_IMU_Time: 259258.704949
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001205
+  y: -77.390000294
+  z: 0.11
+YPR: 
+  x: 162.188
+  y: 42.871
+  z: 11.357
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.39
+  y: 0.31
+  z: 0.62
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 117
+  stamp: 
+    secs: 1652992543
+    nsecs: 150478324
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.72
+GPS_IMU_Time: 259258.724949
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001268
+  y: -77.390000388
+  z: 0.122
+YPR: 
+  x: 161.338
+  y: 48.206
+  z: 10.405
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.41
+  y: 0.37
+  z: 0.54
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 118
+  stamp: 
+    secs: 1652992543
+    nsecs: 166354575
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.74
+GPS_IMU_Time: 259258.74495
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000134
+  y: -77.390000486
+  z: 0.132
+YPR: 
+  x: 160.205
+  y: 53.044
+  z: 9.208
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.42
+  y: 0.41
+  z: 0.47
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 119
+  stamp: 
+    secs: 1652992543
+    nsecs: 188477465
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.76
+GPS_IMU_Time: 259258.764952
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001417
+  y: -77.390000584
+  z: 0.141
+YPR: 
+  x: 158.989
+  y: 57.336
+  z: 8.033
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.41
+  y: 0.44
+  z: 0.39
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 120
+  stamp: 
+    secs: 1652992543
+    nsecs: 209331609
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.78
+GPS_IMU_Time: 259258.784953
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001499
+  y: -77.390000679
+  z: 0.148
+YPR: 
+  x: 157.876
+  y: 60.922
+  z: 7.171
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.4
+  y: 0.46
+  z: 0.32
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 121
+  stamp: 
+    secs: 1652992543
+    nsecs: 230348212
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.8
+GPS_IMU_Time: 259258.804954
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001583
+  y: -77.390000772
+  z: 0.154
+YPR: 
+  x: 157.127
+  y: 63.834
+  z: 6.68
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.39
+  y: 0.46
+  z: 0.27
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 122
+  stamp: 
+    secs: 1652992543
+    nsecs: 246327053
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.82
+GPS_IMU_Time: 259258.824955
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001669
+  y: -77.390000864
+  z: 0.159
+YPR: 
+  x: 156.844
+  y: 66.397
+  z: 6.551
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.39
+  y: 0.49
+  z: 0.24
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 123
+  stamp: 
+    secs: 1652992543
+    nsecs: 268730140
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.84
+GPS_IMU_Time: 259258.844958
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001761
+  y: -77.390000955
+  z: 0.164
+YPR: 
+  x: 156.578
+  y: 69.014
+  z: 6.574
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.38
+  y: 0.53
+  z: 0.23
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 124
+  stamp: 
+    secs: 1652992543
+    nsecs: 289324920
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.86
+GPS_IMU_Time: 259258.864957
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000186
+  y: -77.390001044
+  z: 0.168
+YPR: 
+  x: 155.205
+  y: 71.829
+  z: 5.719
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.38
+  y: 0.56
+  z: 0.21
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 125
+  stamp: 
+    secs: 1652992543
+    nsecs: 310333949
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.88
+GPS_IMU_Time: 259258.884959
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001965
+  y: -77.390001133
+  z: 0.172
+YPR: 
+  x: 151.946
+  y: 74.828
+  z: 3.025
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.38
+  y: 0.59
+  z: 0.18
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 126
+  stamp: 
+    secs: 1652992543
+    nsecs: 331581565
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.9
+GPS_IMU_Time: 259258.90496
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002071
+  y: -77.39000122
+  z: 0.176
+YPR: 
+  x: 146.363
+  y: 77.899
+  z: -1.945
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.36
+  y: 0.58
+  z: 0.14
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 127
+  stamp: 
+    secs: 1652992543
+    nsecs: 347308745
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.92
+GPS_IMU_Time: 259258.924962
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002175
+  y: -77.390001303
+  z: 0.178
+YPR: 
+  x: 137.999
+  y: 80.817
+  z: -9.598
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.34
+  y: 0.55
+  z: 0.08
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 128
+  stamp: 
+    secs: 1652992543
+    nsecs: 368313015
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.94
+GPS_IMU_Time: 259258.944962
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002272
+  y: -77.390001378
+  z: 0.179
+YPR: 
+  x: 125.282
+  y: 83.336
+  z: -21.443
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.3
+  y: 0.51
+  z: 0.01
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 129
+  stamp: 
+    secs: 1652992543
+    nsecs: 390031064
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.96
+GPS_IMU_Time: 259258.964964
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002359
+  y: -77.390001444
+  z: 0.179
+YPR: 
+  x: 106.794
+  y: 85.041
+  z: -38.951
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.26
+  y: 0.45
+  z: -0.05
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 130
+  stamp: 
+    secs: 1652992543
+    nsecs: 410583456
+  frame_id: "F2003127"
+GPS_INS_Time: 259258.98
+GPS_IMU_Time: 259258.984965
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002434
+  y: -77.390001501
+  z: 0.177
+YPR: 
+  x: 85.001
+  y: 85.636
+  z: -59.895
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.22
+  y: 0.37
+  z: -0.1
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 131
+  stamp: 
+    secs: 1652992543
+    nsecs: 431322344
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.0
+GPS_IMU_Time: 259259.004966
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002494
+  y: -77.390001548
+  z: 0.175
+YPR: 
+  x: 68.083
+  y: 85.406
+  z: -76.182
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.18
+  y: 0.29
+  z: -0.13
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 132
+  stamp: 
+    secs: 1652992543
+    nsecs: 447706396
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.02
+GPS_IMU_Time: 259259.024967
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002541
+  y: -77.390001587
+  z: 0.172
+YPR: 
+  x: 58.38
+  y: 85.016
+  z: -85.32
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.15
+  y: 0.22
+  z: -0.15
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 133
+  stamp: 
+    secs: 1652992543
+    nsecs: 468595799
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.04
+GPS_IMU_Time: 259259.044969
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002577
+  y: -77.390001619
+  z: 0.169
+YPR: 
+  x: 54.258
+  y: 84.825
+  z: -88.768
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.12
+  y: 0.16
+  z: -0.15
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 134
+  stamp: 
+    secs: 1652992543
+    nsecs: 489514219
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.06
+GPS_IMU_Time: 259259.064969
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002601
+  y: -77.390001644
+  z: 0.166
+YPR: 
+  x: 54.57
+  y: 84.753
+  z: -87.912
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.08
+  y: 0.1
+  z: -0.14
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 135
+  stamp: 
+    secs: 1652992543
+    nsecs: 510442936
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.08
+GPS_IMU_Time: 259259.084971
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002614
+  y: -77.390001661
+  z: 0.163
+YPR: 
+  x: 58.041
+  y: 84.537
+  z: -84.241
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.05
+  y: 0.04
+  z: -0.13
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 136
+  stamp: 
+    secs: 1652992543
+    nsecs: 531258914
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.1
+GPS_IMU_Time: 259259.104972
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002619
+  y: -77.390001672
+  z: 0.16
+YPR: 
+  x: 62.489
+  y: 84.22
+  z: -79.806
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.01
+  z: -0.09
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 137
+  stamp: 
+    secs: 1652992543
+    nsecs: 547359030
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.12
+GPS_IMU_Time: 259259.124973
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002619
+  y: -77.39000168
+  z: 0.159
+YPR: 
+  x: 66.771
+  y: 84.074
+  z: -75.479
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.03
+  y: -0.01
+  z: -0.05
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 138
+  stamp: 
+    secs: 1652992543
+    nsecs: 568428946
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.14
+GPS_IMU_Time: 259259.144974
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002614
+  y: -77.390001686
+  z: 0.158
+YPR: 
+  x: 70.8
+  y: 84.126
+  z: -71.313
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.01
+  y: -0.03
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 139
+  stamp: 
+    secs: 1652992543
+    nsecs: 590011017
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.16
+GPS_IMU_Time: 259259.164975
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002606
+  y: -77.390001689
+  z: 0.159
+YPR: 
+  x: 74.729
+  y: 84.241
+  z: -67.313
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: -0.06
+  z: 0.03
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 140
+  stamp: 
+    secs: 1652992543
+    nsecs: 610255195
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.18
+GPS_IMU_Time: 259259.184977
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002591
+  y: -77.390001689
+  z: 0.16
+YPR: 
+  x: 78.917
+  y: 84.365
+  z: -63.17
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.01
+  y: -0.1
+  z: 0.06
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 141
+  stamp: 
+    secs: 1652992543
+    nsecs: 631363388
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.2
+GPS_IMU_Time: 259259.204977
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002569
+  y: -77.390001683
+  z: 0.161
+YPR: 
+  x: 85.2
+  y: 84.391
+  z: -57.039
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.04
+  y: -0.14
+  z: 0.07
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 142
+  stamp: 
+    secs: 1652992543
+    nsecs: 647283471
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.22
+GPS_IMU_Time: 259259.224979
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002538
+  y: -77.39000167
+  z: 0.163
+YPR: 
+  x: 94.468
+  y: 84.302
+  z: -47.838
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.06
+  y: -0.18
+  z: 0.09
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 143
+  stamp: 
+    secs: 1652992543
+    nsecs: 668259741
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.24
+GPS_IMU_Time: 259259.24498
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.0400025
+  y: -77.390001652
+  z: 0.165
+YPR: 
+  x: 105.581
+  y: 84.061
+  z: -36.766
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.09
+  y: -0.23
+  z: 0.1
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 144
+  stamp: 
+    secs: 1652992543
+    nsecs: 689251493
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.26
+GPS_IMU_Time: 259259.264981
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002454
+  y: -77.390001625
+  z: 0.167
+YPR: 
+  x: 115.902
+  y: 83.46
+  z: -26.588
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.13
+  y: -0.27
+  z: 0.1
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 145
+  stamp: 
+    secs: 1652992543
+    nsecs: 710408352
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.28
+GPS_IMU_Time: 259259.284982
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.0400024
+  y: -77.390001587
+  z: 0.168
+YPR: 
+  x: 123.817
+  y: 82.233
+  z: -18.967
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.19
+  y: -0.32
+  z: 0.07
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 146
+  stamp: 
+    secs: 1652992543
+    nsecs: 731326124
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.3
+GPS_IMU_Time: 259259.304983
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002336
+  y: -77.390001536
+  z: 0.17
+YPR: 
+  x: 129.123
+  y: 80.327
+  z: -14.047
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.24
+  y: -0.37
+  z: 0.04
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 147
+  stamp: 
+    secs: 1652992543
+    nsecs: 747181042
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.32
+GPS_IMU_Time: 259259.324985
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002264
+  y: -77.390001473
+  z: 0.17
+YPR: 
+  x: 132.849
+  y: 78.022
+  z: -10.722
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.28
+  y: -0.41
+  z: 0.02
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 148
+  stamp: 
+    secs: 1652992543
+    nsecs: 768181646
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.34
+GPS_IMU_Time: 259259.344986
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002186
+  y: -77.390001405
+  z: 0.171
+YPR: 
+  x: 135.819
+  y: 75.614
+  z: -8.149
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.3
+  y: -0.45
+  z: 0.0
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 149
+  stamp: 
+    secs: 1652992543
+    nsecs: 789315209
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.36
+GPS_IMU_Time: 259259.364987
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.0400021
+  y: -77.390001329
+  z: 0.17
+YPR: 
+  x: 137.906
+  y: 72.815
+  z: -6.455
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.34
+  y: -0.5
+  z: -0.04
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 150
+  stamp: 
+    secs: 1652992543
+    nsecs: 810221852
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.38
+GPS_IMU_Time: 259259.384988
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040002004
+  y: -77.390001245
+  z: 0.169
+YPR: 
+  x: 139.277
+  y: 69.144
+  z: -5.796
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.37
+  y: -0.55
+  z: -0.12
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 151
+  stamp: 
+    secs: 1652992543
+    nsecs: 831312064
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.4
+GPS_IMU_Time: 259259.404989
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001901
+  y: -77.39000116
+  z: 0.166
+YPR: 
+  x: 140.608
+  y: 64.87
+  z: -5.316
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.35
+  y: -0.58
+  z: -0.17
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 152
+  stamp: 
+    secs: 1652992543
+    nsecs: 847269516
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.42
+GPS_IMU_Time: 259259.424991
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001796
+  y: -77.390001078
+  z: 0.162
+YPR: 
+  x: 142.229
+  y: 60.666
+  z: -4.469
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.34
+  y: -0.58
+  z: -0.2
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 153
+  stamp: 
+    secs: 1652992543
+    nsecs: 868211751
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.44
+GPS_IMU_Time: 259259.444993
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000169
+  y: -77.390000997
+  z: 0.157
+YPR: 
+  x: 143.894
+  y: 56.657
+  z: -3.414
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.35
+  y: -0.59
+  z: -0.26
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 154
+  stamp: 
+    secs: 1652992543
+    nsecs: 889297908
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.46
+GPS_IMU_Time: 259259.464993
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001582
+  y: -77.390000917
+  z: 0.151
+YPR: 
+  x: 145.561
+  y: 52.266
+  z: -2.341
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.33
+  y: -0.59
+  z: -0.34
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 155
+  stamp: 
+    secs: 1652992543
+    nsecs: 910226235
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.48
+GPS_IMU_Time: 259259.484994
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001478
+  y: -77.390000841
+  z: 0.144
+YPR: 
+  x: 147.359
+  y: 47.531
+  z: -1.046
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.31
+  y: -0.56
+  z: -0.37
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 156
+  stamp: 
+    secs: 1652992543
+    nsecs: 931296874
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.5
+GPS_IMU_Time: 259259.504995
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001379
+  y: -77.390000769
+  z: 0.136
+YPR: 
+  x: 148.919
+  y: 43.14
+  z: 0.196
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.3
+  y: -0.54
+  z: -0.4
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 157
+  stamp: 
+    secs: 1652992543
+    nsecs: 947223382
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.52
+GPS_IMU_Time: 259259.524926
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001282
+  y: -77.390000701
+  z: 0.128
+YPR: 
+  x: 149.863
+  y: 39.061
+  z: 0.602
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.27
+  y: -0.52
+  z: -0.45
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 158
+  stamp: 
+    secs: 1652992543
+    nsecs: 968135155
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.54
+GPS_IMU_Time: 259259.544928
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000119
+  y: -77.39000064
+  z: 0.119
+YPR: 
+  x: 150.49
+  y: 35.106
+  z: 0.632
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.25
+  y: -0.49
+  z: -0.46
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 159
+  stamp: 
+    secs: 1652992543
+    nsecs: 989267607
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.56
+GPS_IMU_Time: 259259.564929
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001104
+  y: -77.390000584
+  z: 0.109
+YPR: 
+  x: 151.112
+  y: 31.443
+  z: 0.75
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.23
+  y: -0.45
+  z: -0.47
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 160
+  stamp: 
+    secs: 1652992544
+    nsecs:  10258655
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.58
+GPS_IMU_Time: 259259.58493
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001026
+  y: -77.390000533
+  z: 0.099
+YPR: 
+  x: 151.509
+  y: 28.083
+  z: 0.55
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.2
+  y: -0.41
+  z: -0.48
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 161
+  stamp: 
+    secs: 1652992544
+    nsecs:  31223241
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.6
+GPS_IMU_Time: 259259.604931
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000955
+  y: -77.390000486
+  z: 0.09
+YPR: 
+  x: 151.729
+  y: 24.964
+  z: 0.309
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.19
+  y: -0.36
+  z: -0.48
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 162
+  stamp: 
+    secs: 1652992544
+    nsecs:  47274895
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.62
+GPS_IMU_Time: 259259.624934
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000894
+  y: -77.390000443
+  z: 0.08
+YPR: 
+  x: 151.964
+  y: 22.056
+  z: 0.373
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.18
+  y: -0.31
+  z: -0.46
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 163
+  stamp: 
+    secs: 1652992544
+    nsecs:  68194185
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.64
+GPS_IMU_Time: 259259.644934
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000842
+  y: -77.390000401
+  z: 0.071
+YPR: 
+  x: 152.218
+  y: 19.397
+  z: 0.767
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.17
+  y: -0.26
+  z: -0.43
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 164
+  stamp: 
+    secs: 1652992544
+    nsecs:  89349156
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.66
+GPS_IMU_Time: 259259.664935
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000798
+  y: -77.390000361
+  z: 0.063
+YPR: 
+  x: 152.466
+  y: 17.041
+  z: 1.194
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.16
+  y: -0.22
+  z: -0.4
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 165
+  stamp: 
+    secs: 1652992544
+    nsecs: 110112080
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.68
+GPS_IMU_Time: 259259.684938
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000762
+  y: -77.390000326
+  z: 0.055
+YPR: 
+  x: 152.626
+  y: 15.017
+  z: 1.322
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.14
+  y: -0.17
+  z: -0.37
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 166
+  stamp: 
+    secs: 1652992544
+    nsecs: 131140016
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.7
+GPS_IMU_Time: 259259.704939
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000735
+  y: -77.390000294
+  z: 0.048
+YPR: 
+  x: 152.603
+  y: 13.342
+  z: 1.368
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.13
+  y: -0.12
+  z: -0.34
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 167
+  stamp: 
+    secs: 1652992544
+    nsecs: 147258113
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.72
+GPS_IMU_Time: 259259.724938
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000716
+  y: -77.390000264
+  z: 0.042
+YPR: 
+  x: 152.501
+  y: 11.911
+  z: 1.694
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.12
+  y: -0.07
+  z: -0.31
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 168
+  stamp: 
+    secs: 1652992544
+    nsecs: 168447545
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.74
+GPS_IMU_Time: 259259.744939
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000705
+  y: -77.390000236
+  z: 0.036
+YPR: 
+  x: 152.403
+  y: 10.718
+  z: 2.207
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.1
+  y: -0.05
+  z: -0.28
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 169
+  stamp: 
+    secs: 1652992544
+    nsecs: 189763066
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.76
+GPS_IMU_Time: 259259.764941
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000697
+  y: -77.390000214
+  z: 0.03
+YPR: 
+  x: 152.214
+  y: 10.048
+  z: 2.239
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.08
+  y: -0.03
+  z: -0.26
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 170
+  stamp: 
+    secs: 1652992544
+    nsecs: 210071021
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.78
+GPS_IMU_Time: 259259.784942
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000692
+  y: -77.390000197
+  z: 0.025
+YPR: 
+  x: 151.786
+  y: 10.022
+  z: 1.672
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.05
+  y: -0.01
+  z: -0.26
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 171
+  stamp: 
+    secs: 1652992544
+    nsecs: 231363765
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.8
+GPS_IMU_Time: 259259.804943
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000069
+  y: -77.390000186
+  z: 0.02
+YPR: 
+  x: 151.127
+  y: 10.29
+  z: 0.703
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.03
+  y: 0.0
+  z: -0.27
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 172
+  stamp: 
+    secs: 1652992544
+    nsecs: 247073057
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.82
+GPS_IMU_Time: 259259.824944
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000692
+  y: -77.390000178
+  z: 0.014
+YPR: 
+  x: 150.618
+  y: 10.672
+  z: -0.223
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.03
+  y: 0.02
+  z: -0.27
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 173
+  stamp: 
+    secs: 1652992544
+    nsecs: 268407671
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.84
+GPS_IMU_Time: 259259.844945
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000697
+  y: -77.390000172
+  z: 0.009
+YPR: 
+  x: 150.409
+  y: 10.967
+  z: -0.606
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.02
+  y: 0.03
+  z: -0.25
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 174
+  stamp: 
+    secs: 1652992544
+    nsecs: 289385756
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.86
+GPS_IMU_Time: 259259.864947
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000704
+  y: -77.390000169
+  z: 0.004
+YPR: 
+  x: 150.297
+  y: 11.169
+  z: -0.861
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.04
+  z: -0.24
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 175
+  stamp: 
+    secs: 1652992544
+    nsecs: 310107886
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.88
+GPS_IMU_Time: 259259.884948
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000712
+  y: -77.390000171
+  z: 0.0
+YPR: 
+  x: 150.216
+  y: 11.473
+  z: -1.237
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.04
+  z: -0.23
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 176
+  stamp: 
+    secs: 1652992544
+    nsecs: 331251060
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.9
+GPS_IMU_Time: 259259.904949
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000718
+  y: -77.390000169
+  z: -0.003
+YPR: 
+  x: 150.242
+  y: 10.496
+  z: -0.814
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.03
+  z: -0.07
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 177
+  stamp: 
+    secs: 1652992544
+    nsecs: 347040275
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.92
+GPS_IMU_Time: 259259.924951
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000726
+  y: -77.390000167
+  z: -0.004
+YPR: 
+  x: 150.764
+  y: 9.617
+  z: 0.12
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.02
+  z: -0.03
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 178
+  stamp: 
+    secs: 1652992544
+    nsecs: 368122303
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.94
+GPS_IMU_Time: 259259.944951
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000728
+  y: -77.390000167
+  z: -0.005
+YPR: 
+  x: 151.006
+  y: 9.181
+  z: 0.191
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.01
+  y: 0.0
+  z: -0.02
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 179
+  stamp: 
+    secs: 1652992544
+    nsecs: 389194738
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.96
+GPS_IMU_Time: 259259.964952
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000729
+  y: -77.39000017
+  z: -0.005
+YPR: 
+  x: 150.99
+  y: 8.709
+  z: 0.136
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: 0.0
+  y: 0.0
+  z: -0.02
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 180
+  stamp: 
+    secs: 1652992544
+    nsecs: 410303858
+  frame_id: "F2003127"
+GPS_INS_Time: 259259.98
+GPS_IMU_Time: 259259.984954
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000728
+  y: -77.390000173
+  z: -0.006
+YPR: 
+  x: 151.151
+  y: 8.15
+  z: 0.147
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.01
+  y: 0.0
+  z: -0.03
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 181
+  stamp: 
+    secs: 1652992544
+    nsecs: 431063245
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.0
+GPS_IMU_Time: 259260.004955
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000727
+  y: -77.390000177
+  z: -0.006
+YPR: 
+  x: 151.605
+  y: 7.468
+  z: 0.14
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.01
+  y: 0.0
+  z: -0.04
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 182
+  stamp: 
+    secs: 1652992544
+    nsecs: 447280376
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.02
+GPS_IMU_Time: 259260.024957
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000726
+  y: -77.39000018
+  z: -0.007
+YPR: 
+  x: 152.175
+  y: 6.52
+  z: 0.171
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.01
+  y: 0.0
+  z: -0.06
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 183
+  stamp: 
+    secs: 1652992544
+    nsecs: 468248721
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.04
+GPS_IMU_Time: 259260.044957
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000725
+  y: -77.390000184
+  z: -0.009
+YPR: 
+  x: 152.672
+  y: 5.164
+  z: 0.222
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.02
+  y: -0.01
+  z: -0.09
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 184
+  stamp: 
+    secs: 1652992544
+    nsecs: 488996831
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.06
+GPS_IMU_Time: 259260.064958
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000723
+  y: -77.390000192
+  z: -0.011
+YPR: 
+  x: 153.109
+  y: 3.165
+  z: 0.245
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.0
+  z: -0.13
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 185
+  stamp: 
+    secs: 1652992544
+    nsecs: 510106858
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.08
+GPS_IMU_Time: 259260.08496
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000722
+  y: -77.390000203
+  z: -0.015
+YPR: 
+  x: 153.558
+  y: 0.444
+  z: 0.239
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.0
+  z: -0.14
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 186
+  stamp: 
+    secs: 1652992544
+    nsecs: 531011779
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.1
+GPS_IMU_Time: 259260.104961
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000724
+  y: -77.390000212
+  z: -0.017
+YPR: 
+  x: 153.649
+  y: -0.01
+  z: 0.171
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.03
+  y: 0.01
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 187
+  stamp: 
+    secs: 1652992544
+    nsecs: 547135745
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.12
+GPS_IMU_Time: 259260.124962
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000728
+  y: -77.39000022
+  z: -0.019
+YPR: 
+  x: 153.497
+  y: -0.021
+  z: 0.162
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.03
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 188
+  stamp: 
+    secs: 1652992544
+    nsecs: 568071814
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.14
+GPS_IMU_Time: 259260.144964
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000733
+  y: -77.390000228
+  z: -0.021
+YPR: 
+  x: 153.248
+  y: -0.014
+  z: 0.154
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.03
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 189
+  stamp: 
+    secs: 1652992544
+    nsecs: 588963605
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.16
+GPS_IMU_Time: 259260.164964
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000737
+  y: -77.390000237
+  z: -0.024
+YPR: 
+  x: 153.109
+  y: -0.013
+  z: 0.144
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 190
+  stamp: 
+    secs: 1652992544
+    nsecs: 609962431
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.18
+GPS_IMU_Time: 259260.184965
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000742
+  y: -77.390000248
+  z: -0.026
+YPR: 
+  x: 153.103
+  y: -0.005
+  z: 0.156
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 191
+  stamp: 
+    secs: 1652992544
+    nsecs: 631024015
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.2
+GPS_IMU_Time: 259260.204967
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000746
+  y: -77.390000259
+  z: -0.028
+YPR: 
+  x: 153.103
+  y: 0.005
+  z: 0.188
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 192
+  stamp: 
+    secs: 1652992544
+    nsecs: 647086742
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.22
+GPS_IMU_Time: 259260.22497
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000075
+  y: -77.39000027
+  z: -0.03
+YPR: 
+  x: 153.103
+  y: 0.004
+  z: 0.208
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 193
+  stamp: 
+    secs: 1652992544
+    nsecs: 667996700
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.24
+GPS_IMU_Time: 259260.244969
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000755
+  y: -77.390000281
+  z: -0.033
+YPR: 
+  x: 153.103
+  y: -0.01
+  z: 0.182
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.1
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 194
+  stamp: 
+    secs: 1652992544
+    nsecs: 689116393
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.26
+GPS_IMU_Time: 259260.26497
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000759
+  y: -77.390000292
+  z: -0.035
+YPR: 
+  x: 153.104
+  y: -0.015
+  z: 0.164
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.1
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 195
+  stamp: 
+    secs: 1652992544
+    nsecs: 709948945
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.28
+GPS_IMU_Time: 259260.284971
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000763
+  y: -77.390000303
+  z: -0.037
+YPR: 
+  x: 153.104
+  y: -0.015
+  z: 0.164
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 196
+  stamp: 
+    secs: 1652992544
+    nsecs: 730936197
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.3
+GPS_IMU_Time: 259260.304972
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000768
+  y: -77.390000313
+  z: -0.039
+YPR: 
+  x: 153.103
+  y: -0.02
+  z: 0.162
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 197
+  stamp: 
+    secs: 1652992544
+    nsecs: 746927093
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.32
+GPS_IMU_Time: 259260.324974
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000772
+  y: -77.390000324
+  z: -0.042
+YPR: 
+  x: 153.104
+  y: -0.022
+  z: 0.159
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 198
+  stamp: 
+    secs: 1652992544
+    nsecs: 767969492
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.34
+GPS_IMU_Time: 259260.344975
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000777
+  y: -77.390000335
+  z: -0.044
+YPR: 
+  x: 153.104
+  y: -0.018
+  z: 0.161
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 199
+  stamp: 
+    secs: 1652992544
+    nsecs: 788934634
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.36
+GPS_IMU_Time: 259260.364976
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000781
+  y: -77.390000346
+  z: -0.046
+YPR: 
+  x: 153.103
+  y: -0.018
+  z: 0.162
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 200
+  stamp: 
+    secs: 1652992544
+    nsecs: 809896646
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.38
+GPS_IMU_Time: 259260.384977
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000785
+  y: -77.390000357
+  z: -0.048
+YPR: 
+  x: 153.104
+  y: -0.02
+  z: 0.162
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 201
+  stamp: 
+    secs: 1652992544
+    nsecs: 830901101
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.4
+GPS_IMU_Time: 259260.404978
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000079
+  y: -77.390000368
+  z: -0.051
+YPR: 
+  x: 153.104
+  y: -0.019
+  z: 0.16
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 202
+  stamp: 
+    secs: 1652992544
+    nsecs: 847064733
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.42
+GPS_IMU_Time: 259260.42498
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000794
+  y: -77.390000379
+  z: -0.053
+YPR: 
+  x: 153.104
+  y: -0.02
+  z: 0.161
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 203
+  stamp: 
+    secs: 1652992544
+    nsecs: 867987709
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.44
+GPS_IMU_Time: 259260.444981
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000799
+  y: -77.39000039
+  z: -0.055
+YPR: 
+  x: 153.103
+  y: -0.019
+  z: 0.16
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 204
+  stamp: 
+    secs: 1652992544
+    nsecs: 888903148
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.46
+GPS_IMU_Time: 259260.464982
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000803
+  y: -77.390000401
+  z: -0.057
+YPR: 
+  x: 153.101
+  y: -0.021
+  z: 0.159
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 205
+  stamp: 
+    secs: 1652992544
+    nsecs: 909878215
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.48
+GPS_IMU_Time: 259260.484983
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000808
+  y: -77.390000412
+  z: -0.06
+YPR: 
+  x: 153.098
+  y: -0.022
+  z: 0.16
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 206
+  stamp: 
+    secs: 1652992544
+    nsecs: 931001057
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.5
+GPS_IMU_Time: 259260.504985
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000812
+  y: -77.390000423
+  z: -0.062
+YPR: 
+  x: 153.096
+  y: -0.023
+  z: 0.159
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 207
+  stamp: 
+    secs: 1652992544
+    nsecs: 947062784
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.52
+GPS_IMU_Time: 259260.524916
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000817
+  y: -77.390000433
+  z: -0.064
+YPR: 
+  x: 153.094
+  y: -0.024
+  z: 0.16
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 208
+  stamp: 
+    secs: 1652992544
+    nsecs: 968581579
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.54
+GPS_IMU_Time: 259260.544917
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000821
+  y: -77.390000444
+  z: -0.066
+YPR: 
+  x: 153.092
+  y: -0.024
+  z: 0.16
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 209
+  stamp: 
+    secs: 1652992544
+    nsecs: 989162563
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.56
+GPS_IMU_Time: 259260.56492
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000826
+  y: -77.390000455
+  z: -0.069
+YPR: 
+  x: 153.09
+  y: -0.024
+  z: 0.16
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 210
+  stamp: 
+    secs: 1652992545
+    nsecs:   9837564
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.58
+GPS_IMU_Time: 259260.584919
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000083
+  y: -77.390000466
+  z: -0.071
+YPR: 
+  x: 153.088
+  y: -0.024
+  z: 0.16
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 211
+  stamp: 
+    secs: 1652992545
+    nsecs:  30866426
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.6
+GPS_IMU_Time: 259260.604922
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000835
+  y: -77.390000477
+  z: -0.073
+YPR: 
+  x: 153.086
+  y: -0.026
+  z: 0.159
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 212
+  stamp: 
+    secs: 1652992545
+    nsecs:  46900580
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.62
+GPS_IMU_Time: 259260.624921
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000839
+  y: -77.390000488
+  z: -0.076
+YPR: 
+  x: 153.084
+  y: -0.026
+  z: 0.159
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 213
+  stamp: 
+    secs: 1652992545
+    nsecs:  67889814
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.64
+GPS_IMU_Time: 259260.644923
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000844
+  y: -77.390000499
+  z: -0.078
+YPR: 
+  x: 153.082
+  y: -0.025
+  z: 0.159
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 214
+  stamp: 
+    secs: 1652992545
+    nsecs:  88927546
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.66
+GPS_IMU_Time: 259260.664924
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000848
+  y: -77.39000051
+  z: -0.08
+YPR: 
+  x: 153.08
+  y: -0.025
+  z: 0.159
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 215
+  stamp: 
+    secs: 1652992545
+    nsecs: 109910947
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.68
+GPS_IMU_Time: 259260.684925
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000853
+  y: -77.390000521
+  z: -0.082
+YPR: 
+  x: 153.079
+  y: -0.02
+  z: 0.164
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 216
+  stamp: 
+    secs: 1652992545
+    nsecs: 130880292
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.7
+GPS_IMU_Time: 259260.704926
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000857
+  y: -77.390000532
+  z: -0.085
+YPR: 
+  x: 153.076
+  y: -0.018
+  z: 0.166
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 217
+  stamp: 
+    secs: 1652992545
+    nsecs: 147071924
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.72
+GPS_IMU_Time: 259260.724927
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000862
+  y: -77.390000543
+  z: -0.087
+YPR: 
+  x: 153.073
+  y: -0.025
+  z: 0.164
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 218
+  stamp: 
+    secs: 1652992545
+    nsecs: 167937309
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.74
+GPS_IMU_Time: 259260.744929
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000866
+  y: -77.390000554
+  z: -0.089
+YPR: 
+  x: 153.07
+  y: -0.024
+  z: 0.162
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.1
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 219
+  stamp: 
+    secs: 1652992545
+    nsecs: 189026021
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.76
+GPS_IMU_Time: 259260.76493
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000871
+  y: -77.390000564
+  z: -0.091
+YPR: 
+  x: 153.068
+  y: -0.027
+  z: 0.16
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.1
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 220
+  stamp: 
+    secs: 1652992545
+    nsecs: 209954534
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.78
+GPS_IMU_Time: 259260.784931
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000875
+  y: -77.390000575
+  z: -0.093
+YPR: 
+  x: 153.065
+  y: -0.024
+  z: 0.159
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 221
+  stamp: 
+    secs: 1652992545
+    nsecs: 230784605
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.8
+GPS_IMU_Time: 259260.804932
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000088
+  y: -77.390000586
+  z: -0.096
+YPR: 
+  x: 153.062
+  y: -0.024
+  z: 0.159
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 222
+  stamp: 
+    secs: 1652992545
+    nsecs: 246961515
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.82
+GPS_IMU_Time: 259260.824933
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000884
+  y: -77.390000597
+  z: -0.098
+YPR: 
+  x: 153.061
+  y: -0.023
+  z: 0.162
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 223
+  stamp: 
+    secs: 1652992545
+    nsecs: 267931342
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.84
+GPS_IMU_Time: 259260.844937
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000889
+  y: -77.390000608
+  z: -0.1
+YPR: 
+  x: 153.058
+  y: -0.022
+  z: 0.164
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 224
+  stamp: 
+    secs: 1652992545
+    nsecs: 288951390
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.86
+GPS_IMU_Time: 259260.864936
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000894
+  y: -77.390000619
+  z: -0.103
+YPR: 
+  x: 153.056
+  y: -0.025
+  z: 0.165
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 225
+  stamp: 
+    secs: 1652992545
+    nsecs: 310026973
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.88
+GPS_IMU_Time: 259260.884937
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000898
+  y: -77.39000063
+  z: -0.105
+YPR: 
+  x: 153.055
+  y: -0.025
+  z: 0.166
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 226
+  stamp: 
+    secs: 1652992545
+    nsecs: 330821767
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.9
+GPS_IMU_Time: 259260.90494
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000903
+  y: -77.390000641
+  z: -0.107
+YPR: 
+  x: 153.053
+  y: -0.025
+  z: 0.165
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.1
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 227
+  stamp: 
+    secs: 1652992545
+    nsecs: 346947549
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.92
+GPS_IMU_Time: 259260.924939
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000907
+  y: -77.390000652
+  z: -0.109
+YPR: 
+  x: 153.05
+  y: -0.023
+  z: 0.165
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 228
+  stamp: 
+    secs: 1652992545
+    nsecs: 367949875
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.94
+GPS_IMU_Time: 259260.94494
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000912
+  y: -77.390000662
+  z: -0.112
+YPR: 
+  x: 153.047
+  y: -0.024
+  z: 0.165
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 229
+  stamp: 
+    secs: 1652992545
+    nsecs: 389126770
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.96
+GPS_IMU_Time: 259260.964942
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000917
+  y: -77.390000673
+  z: -0.114
+YPR: 
+  x: 153.045
+  y: -0.023
+  z: 0.166
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 230
+  stamp: 
+    secs: 1652992545
+    nsecs: 410474273
+  frame_id: "F2003127"
+GPS_INS_Time: 259260.98
+GPS_IMU_Time: 259260.984943
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000921
+  y: -77.390000684
+  z: -0.116
+YPR: 
+  x: 153.042
+  y: -0.023
+  z: 0.168
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 231
+  stamp: 
+    secs: 1652992545
+    nsecs: 430805875
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.0
+GPS_IMU_Time: 259261.004944
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000926
+  y: -77.390000695
+  z: -0.119
+YPR: 
+  x: 153.039
+  y: -0.019
+  z: 0.169
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 232
+  stamp: 
+    secs: 1652992545
+    nsecs: 446869324
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.02
+GPS_IMU_Time: 259261.024945
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000093
+  y: -77.390000706
+  z: -0.121
+YPR: 
+  x: 153.037
+  y: -0.017
+  z: 0.171
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 233
+  stamp: 
+    secs: 1652992545
+    nsecs: 467881576
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.04
+GPS_IMU_Time: 259261.044946
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000935
+  y: -77.390000717
+  z: -0.123
+YPR: 
+  x: 153.035
+  y: -0.018
+  z: 0.17
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 234
+  stamp: 
+    secs: 1652992545
+    nsecs: 488776238
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.06
+GPS_IMU_Time: 259261.064948
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000094
+  y: -77.390000728
+  z: -0.125
+YPR: 
+  x: 153.033
+  y: -0.017
+  z: 0.17
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 235
+  stamp: 
+    secs: 1652992545
+    nsecs: 509875339
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.08
+GPS_IMU_Time: 259261.084949
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000944
+  y: -77.390000739
+  z: -0.128
+YPR: 
+  x: 153.031
+  y: -0.017
+  z: 0.17
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 236
+  stamp: 
+    secs: 1652992545
+    nsecs: 530821389
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.1
+GPS_IMU_Time: 259261.10495
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000949
+  y: -77.39000075
+  z: -0.13
+YPR: 
+  x: 153.028
+  y: -0.016
+  z: 0.169
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 237
+  stamp: 
+    secs: 1652992545
+    nsecs: 546827395
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.12
+GPS_IMU_Time: 259261.124951
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000953
+  y: -77.390000761
+  z: -0.132
+YPR: 
+  x: 153.026
+  y: -0.017
+  z: 0.17
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 238
+  stamp: 
+    secs: 1652992545
+    nsecs: 567872202
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.14
+GPS_IMU_Time: 259261.144953
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000958
+  y: -77.390000772
+  z: -0.134
+YPR: 
+  x: 153.024
+  y: -0.018
+  z: 0.172
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 239
+  stamp: 
+    secs: 1652992545
+    nsecs: 588880713
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.16
+GPS_IMU_Time: 259261.164954
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000963
+  y: -77.390000783
+  z: -0.137
+YPR: 
+  x: 153.021
+  y: -0.019
+  z: 0.172
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 240
+  stamp: 
+    secs: 1652992545
+    nsecs: 609832651
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.18
+GPS_IMU_Time: 259261.184955
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000967
+  y: -77.390000793
+  z: -0.139
+YPR: 
+  x: 153.019
+  y: -0.018
+  z: 0.172
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 241
+  stamp: 
+    secs: 1652992545
+    nsecs: 630783293
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.2
+GPS_IMU_Time: 259261.204956
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000972
+  y: -77.390000804
+  z: -0.141
+YPR: 
+  x: 153.017
+  y: -0.018
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 242
+  stamp: 
+    secs: 1652992545
+    nsecs: 646826484
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.22
+GPS_IMU_Time: 259261.224957
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000976
+  y: -77.390000815
+  z: -0.144
+YPR: 
+  x: 153.015
+  y: -0.018
+  z: 0.172
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 243
+  stamp: 
+    secs: 1652992545
+    nsecs: 667792107
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.24
+GPS_IMU_Time: 259261.244958
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000981
+  y: -77.390000826
+  z: -0.146
+YPR: 
+  x: 153.013
+  y: -0.018
+  z: 0.172
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 244
+  stamp: 
+    secs: 1652992545
+    nsecs: 688794470
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.26
+GPS_IMU_Time: 259261.264959
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000986
+  y: -77.390000837
+  z: -0.148
+YPR: 
+  x: 153.011
+  y: -0.016
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 245
+  stamp: 
+    secs: 1652992545
+    nsecs: 709800870
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.28
+GPS_IMU_Time: 259261.284961
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000099
+  y: -77.390000848
+  z: -0.15
+YPR: 
+  x: 153.008
+  y: -0.016
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 246
+  stamp: 
+    secs: 1652992545
+    nsecs: 730802159
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.3
+GPS_IMU_Time: 259261.304962
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040000995
+  y: -77.390000859
+  z: -0.153
+YPR: 
+  x: 153.007
+  y: -0.017
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 247
+  stamp: 
+    secs: 1652992545
+    nsecs: 746802499
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.32
+GPS_IMU_Time: 259261.324965
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001
+  y: -77.39000087
+  z: -0.155
+YPR: 
+  x: 153.004
+  y: -0.016
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 248
+  stamp: 
+    secs: 1652992545
+    nsecs: 767991765
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.34
+GPS_IMU_Time: 259261.344966
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001004
+  y: -77.390000881
+  z: -0.157
+YPR: 
+  x: 153.002
+  y: -0.016
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 249
+  stamp: 
+    secs: 1652992545
+    nsecs: 788621711
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.36
+GPS_IMU_Time: 259261.364966
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001009
+  y: -77.390000892
+  z: -0.159
+YPR: 
+  x: 152.999
+  y: -0.016
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 250
+  stamp: 
+    secs: 1652992545
+    nsecs: 809639333
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.38
+GPS_IMU_Time: 259261.384967
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001014
+  y: -77.390000903
+  z: -0.162
+YPR: 
+  x: 152.997
+  y: -0.017
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 251
+  stamp: 
+    secs: 1652992545
+    nsecs: 830659344
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.4
+GPS_IMU_Time: 259261.404967
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001018
+  y: -77.390000914
+  z: -0.164
+YPR: 
+  x: 152.996
+  y: -0.017
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 252
+  stamp: 
+    secs: 1652992545
+    nsecs: 846626574
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.42
+GPS_IMU_Time: 259261.424969
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001023
+  y: -77.390000925
+  z: -0.166
+YPR: 
+  x: 152.993
+  y: -0.018
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 253
+  stamp: 
+    secs: 1652992545
+    nsecs: 867607622
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.44
+GPS_IMU_Time: 259261.44497
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001028
+  y: -77.390000936
+  z: -0.168
+YPR: 
+  x: 152.992
+  y: -0.018
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 254
+  stamp: 
+    secs: 1652992545
+    nsecs: 888605486
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.46
+GPS_IMU_Time: 259261.464971
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001032
+  y: -77.390000947
+  z: -0.171
+YPR: 
+  x: 152.989
+  y: -0.017
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 255
+  stamp: 
+    secs: 1652992545
+    nsecs: 909724235
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.48
+GPS_IMU_Time: 259261.484972
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001037
+  y: -77.390000958
+  z: -0.173
+YPR: 
+  x: 152.987
+  y: -0.018
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 256
+  stamp: 
+    secs: 1652992545
+    nsecs: 930786263
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.5
+GPS_IMU_Time: 259261.504974
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001042
+  y: -77.390000968
+  z: -0.175
+YPR: 
+  x: 152.984
+  y: -0.017
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 257
+  stamp: 
+    secs: 1652992545
+    nsecs: 946763751
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.52
+GPS_IMU_Time: 259261.524905
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001046
+  y: -77.390000979
+  z: -0.177
+YPR: 
+  x: 152.982
+  y: -0.017
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 258
+  stamp: 
+    secs: 1652992545
+    nsecs: 967623840
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.54
+GPS_IMU_Time: 259261.544906
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001051
+  y: -77.39000099
+  z: -0.18
+YPR: 
+  x: 152.98
+  y: -0.016
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 259
+  stamp: 
+    secs: 1652992545
+    nsecs: 988604611
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.56
+GPS_IMU_Time: 259261.564907
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001056
+  y: -77.390001001
+  z: -0.182
+YPR: 
+  x: 152.978
+  y: -0.015
+  z: 0.172
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 260
+  stamp: 
+    secs: 1652992546
+    nsecs:   9607048
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.58
+GPS_IMU_Time: 259261.584911
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000106
+  y: -77.390001012
+  z: -0.184
+YPR: 
+  x: 152.976
+  y: -0.016
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 261
+  stamp: 
+    secs: 1652992546
+    nsecs:  30605115
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.6
+GPS_IMU_Time: 259261.604909
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001065
+  y: -77.390001023
+  z: -0.186
+YPR: 
+  x: 152.974
+  y: -0.013
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 262
+  stamp: 
+    secs: 1652992546
+    nsecs:  46589808
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.62
+GPS_IMU_Time: 259261.624911
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000107
+  y: -77.390001034
+  z: -0.189
+YPR: 
+  x: 152.972
+  y: -0.013
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 263
+  stamp: 
+    secs: 1652992546
+    nsecs:  67572264
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.64
+GPS_IMU_Time: 259261.644912
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001074
+  y: -77.390001045
+  z: -0.191
+YPR: 
+  x: 152.969
+  y: -0.013
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 264
+  stamp: 
+    secs: 1652992546
+    nsecs:  88570627
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.66
+GPS_IMU_Time: 259261.664913
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001079
+  y: -77.390001056
+  z: -0.193
+YPR: 
+  x: 152.967
+  y: -0.013
+  z: 0.172
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 265
+  stamp: 
+    secs: 1652992546
+    nsecs: 109598471
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.68
+GPS_IMU_Time: 259261.684914
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001084
+  y: -77.390001067
+  z: -0.196
+YPR: 
+  x: 152.964
+  y: -0.011
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 266
+  stamp: 
+    secs: 1652992546
+    nsecs: 130829217
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.7
+GPS_IMU_Time: 259261.704915
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001089
+  y: -77.390001078
+  z: -0.198
+YPR: 
+  x: 152.962
+  y: -0.012
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 267
+  stamp: 
+    secs: 1652992546
+    nsecs: 146721190
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.72
+GPS_IMU_Time: 259261.724416
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001093
+  y: -77.390001089
+  z: -0.2
+YPR: 
+  x: 152.96
+  y: -0.011
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 268
+  stamp: 
+    secs: 1652992546
+    nsecs: 167694146
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.74
+GPS_IMU_Time: 259261.744419
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001098
+  y: -77.3900011
+  z: -0.202
+YPR: 
+  x: 152.956
+  y: -0.01
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 269
+  stamp: 
+    secs: 1652992546
+    nsecs: 188571753
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.76
+GPS_IMU_Time: 259261.76442
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001103
+  y: -77.390001111
+  z: -0.205
+YPR: 
+  x: 152.954
+  y: -0.008
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 270
+  stamp: 
+    secs: 1652992546
+    nsecs: 209589301
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.78
+GPS_IMU_Time: 259261.78442
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001108
+  y: -77.390001122
+  z: -0.207
+YPR: 
+  x: 152.953
+  y: -0.008
+  z: 0.175
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 271
+  stamp: 
+    secs: 1652992546
+    nsecs: 230563924
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.8
+GPS_IMU_Time: 259261.804421
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001112
+  y: -77.390001133
+  z: -0.209
+YPR: 
+  x: 152.951
+  y: -0.009
+  z: 0.175
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 272
+  stamp: 
+    secs: 1652992546
+    nsecs: 246523173
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.82
+GPS_IMU_Time: 259261.824422
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001117
+  y: -77.390001144
+  z: -0.211
+YPR: 
+  x: 152.948
+  y: -0.008
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 273
+  stamp: 
+    secs: 1652992546
+    nsecs: 267511981
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.84
+GPS_IMU_Time: 259261.844424
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001122
+  y: -77.390001155
+  z: -0.214
+YPR: 
+  x: 152.946
+  y: -0.006
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 274
+  stamp: 
+    secs: 1652992546
+    nsecs: 288757171
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.86
+GPS_IMU_Time: 259261.864425
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001127
+  y: -77.390001166
+  z: -0.216
+YPR: 
+  x: 152.944
+  y: -0.005
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 275
+  stamp: 
+    secs: 1652992546
+    nsecs: 309871198
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.88
+GPS_IMU_Time: 259261.884426
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001132
+  y: -77.390001177
+  z: -0.218
+YPR: 
+  x: 152.94
+  y: -0.004
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 276
+  stamp: 
+    secs: 1652992546
+    nsecs: 330687992
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.9
+GPS_IMU_Time: 259261.904427
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001136
+  y: -77.390001187
+  z: -0.22
+YPR: 
+  x: 152.938
+  y: -0.005
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 277
+  stamp: 
+    secs: 1652992546
+    nsecs: 346707924
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.92
+GPS_IMU_Time: 259261.924428
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001141
+  y: -77.390001198
+  z: -0.223
+YPR: 
+  x: 152.935
+  y: -0.004
+  z: 0.175
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 278
+  stamp: 
+    secs: 1652992546
+    nsecs: 367551847
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.94
+GPS_IMU_Time: 259261.944429
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001146
+  y: -77.390001209
+  z: -0.225
+YPR: 
+  x: 152.933
+  y: -0.005
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 279
+  stamp: 
+    secs: 1652992546
+    nsecs: 388551155
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.96
+GPS_IMU_Time: 259261.96443
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001151
+  y: -77.39000122
+  z: -0.227
+YPR: 
+  x: 152.93
+  y: -0.005
+  z: 0.175
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 280
+  stamp: 
+    secs: 1652992546
+    nsecs: 409490982
+  frame_id: "F2003127"
+GPS_INS_Time: 259261.98
+GPS_IMU_Time: 259261.984432
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001156
+  y: -77.390001231
+  z: -0.229
+YPR: 
+  x: 152.928
+  y: -0.005
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 281
+  stamp: 
+    secs: 1652992546
+    nsecs: 430492494
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.0
+GPS_IMU_Time: 259262.004433
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001161
+  y: -77.390001242
+  z: -0.232
+YPR: 
+  x: 152.926
+  y: -0.005
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 282
+  stamp: 
+    secs: 1652992546
+    nsecs: 446576424
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.02
+GPS_IMU_Time: 259262.024434
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001166
+  y: -77.390001253
+  z: -0.234
+YPR: 
+  x: 152.924
+  y: -0.007
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 283
+  stamp: 
+    secs: 1652992546
+    nsecs: 467462013
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.04
+GPS_IMU_Time: 259262.044436
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000117
+  y: -77.390001264
+  z: -0.236
+YPR: 
+  x: 152.922
+  y: -0.008
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 284
+  stamp: 
+    secs: 1652992546
+    nsecs: 488502115
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.06
+GPS_IMU_Time: 259262.064437
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001175
+  y: -77.390001275
+  z: -0.238
+YPR: 
+  x: 152.921
+  y: -0.009
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 285
+  stamp: 
+    secs: 1652992546
+    nsecs: 509443591
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.08
+GPS_IMU_Time: 259262.084438
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000118
+  y: -77.390001286
+  z: -0.241
+YPR: 
+  x: 152.919
+  y: -0.01
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 286
+  stamp: 
+    secs: 1652992546
+    nsecs: 530653653
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.1
+GPS_IMU_Time: 259262.104439
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001185
+  y: -77.390001297
+  z: -0.243
+YPR: 
+  x: 152.917
+  y: -0.011
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 287
+  stamp: 
+    secs: 1652992546
+    nsecs: 546546051
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.12
+GPS_IMU_Time: 259262.124442
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000119
+  y: -77.390001308
+  z: -0.245
+YPR: 
+  x: 152.915
+  y: -0.011
+  z: 0.172
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 288
+  stamp: 
+    secs: 1652992546
+    nsecs: 567763187
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.14
+GPS_IMU_Time: 259262.144441
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001195
+  y: -77.390001319
+  z: -0.248
+YPR: 
+  x: 152.913
+  y: -0.009
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 289
+  stamp: 
+    secs: 1652992546
+    nsecs: 588522371
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.16
+GPS_IMU_Time: 259262.164445
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.0400012
+  y: -77.39000133
+  z: -0.25
+YPR: 
+  x: 152.91
+  y: -0.01
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 290
+  stamp: 
+    secs: 1652992546
+    nsecs: 609544826
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.18
+GPS_IMU_Time: 259262.184444
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001205
+  y: -77.390001341
+  z: -0.252
+YPR: 
+  x: 152.908
+  y: -0.01
+  z: 0.171
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 291
+  stamp: 
+    secs: 1652992546
+    nsecs: 630498450
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.2
+GPS_IMU_Time: 259262.204447
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000121
+  y: -77.390001352
+  z: -0.254
+YPR: 
+  x: 152.905
+  y: -0.009
+  z: 0.173
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 292
+  stamp: 
+    secs: 1652992546
+    nsecs: 646524808
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.22
+GPS_IMU_Time: 259262.224446
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001215
+  y: -77.390001363
+  z: -0.257
+YPR: 
+  x: 152.903
+  y: -0.01
+  z: 0.175
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 293
+  stamp: 
+    secs: 1652992546
+    nsecs: 667758110
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.24
+GPS_IMU_Time: 259262.244448
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000122
+  y: -77.390001374
+  z: -0.259
+YPR: 
+  x: 152.901
+  y: -0.009
+  z: 0.174
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 294
+  stamp: 
+    secs: 1652992546
+    nsecs: 688720455
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.26
+GPS_IMU_Time: 259262.264449
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001225
+  y: -77.390001385
+  z: -0.261
+YPR: 
+  x: 152.899
+  y: -0.008
+  z: 0.175
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 295
+  stamp: 
+    secs: 1652992546
+    nsecs: 709528786
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.28
+GPS_IMU_Time: 259262.28445
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000123
+  y: -77.390001396
+  z: -0.263
+YPR: 
+  x: 152.896
+  y: -0.009
+  z: 0.176
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 296
+  stamp: 
+    secs: 1652992546
+    nsecs: 730654831
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.3
+GPS_IMU_Time: 259262.304451
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001235
+  y: -77.390001407
+  z: -0.266
+YPR: 
+  x: 152.894
+  y: -0.01
+  z: 0.175
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 297
+  stamp: 
+    secs: 1652992546
+    nsecs: 746493416
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.32
+GPS_IMU_Time: 259262.324452
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000124
+  y: -77.390001418
+  z: -0.268
+YPR: 
+  x: 152.892
+  y: -0.009
+  z: 0.177
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 298
+  stamp: 
+    secs: 1652992546
+    nsecs: 767516020
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.34
+GPS_IMU_Time: 259262.344453
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001245
+  y: -77.39000143
+  z: -0.27
+YPR: 
+  x: 152.89
+  y: -0.007
+  z: 0.18
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 299
+  stamp: 
+    secs: 1652992546
+    nsecs: 788661472
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.36
+GPS_IMU_Time: 259262.364454
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000125
+  y: -77.390001441
+  z: -0.272
+YPR: 
+  x: 152.887
+  y: -0.007
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 300
+  stamp: 
+    secs: 1652992546
+    nsecs: 809465007
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.38
+GPS_IMU_Time: 259262.384456
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001255
+  y: -77.390001452
+  z: -0.275
+YPR: 
+  x: 152.885
+  y: -0.006
+  z: 0.178
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 301
+  stamp: 
+    secs: 1652992546
+    nsecs: 830528276
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.4
+GPS_IMU_Time: 259262.404457
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000126
+  y: -77.390001463
+  z: -0.277
+YPR: 
+  x: 152.882
+  y: -0.007
+  z: 0.179
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 302
+  stamp: 
+    secs: 1652992546
+    nsecs: 846473562
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.42
+GPS_IMU_Time: 259262.424458
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001265
+  y: -77.390001474
+  z: -0.279
+YPR: 
+  x: 152.88
+  y: -0.01
+  z: 0.178
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 303
+  stamp: 
+    secs: 1652992546
+    nsecs: 867636291
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.44
+GPS_IMU_Time: 259262.444459
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000127
+  y: -77.390001485
+  z: -0.281
+YPR: 
+  x: 152.878
+  y: -0.01
+  z: 0.176
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 304
+  stamp: 
+    secs: 1652992546
+    nsecs: 888799891
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.46
+GPS_IMU_Time: 259262.46446
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001275
+  y: -77.390001496
+  z: -0.284
+YPR: 
+  x: 152.876
+  y: -0.01
+  z: 0.178
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 305
+  stamp: 
+    secs: 1652992546
+    nsecs: 909450707
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.48
+GPS_IMU_Time: 259262.484461
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000128
+  y: -77.390001507
+  z: -0.286
+YPR: 
+  x: 152.873
+  y: -0.012
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 306
+  stamp: 
+    secs: 1652992546
+    nsecs: 930633584
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.5
+GPS_IMU_Time: 259262.504462
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001285
+  y: -77.390001518
+  z: -0.288
+YPR: 
+  x: 152.87
+  y: -0.013
+  z: 0.18
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 307
+  stamp: 
+    secs: 1652992546
+    nsecs: 946508317
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.52
+GPS_IMU_Time: 259262.524394
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.04000129
+  y: -77.390001529
+  z: -0.291
+YPR: 
+  x: 152.87
+  y: -0.013
+  z: 0.178
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 308
+  stamp: 
+    secs: 1652992546
+    nsecs: 967531272
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.54
+GPS_IMU_Time: 259262.544395
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001295
+  y: -77.39000154
+  z: -0.293
+YPR: 
+  x: 152.868
+  y: -0.014
+  z: 0.18
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 309
+  stamp: 
+    secs: 1652992546
+    nsecs: 988631336
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.56
+GPS_IMU_Time: 259262.564396
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.0400013
+  y: -77.390001551
+  z: -0.295
+YPR: 
+  x: 152.864
+  y: -0.016
+  z: 0.18
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 310
+  stamp: 
+    secs: 1652992547
+    nsecs:  15382815
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.58
+GPS_IMU_Time: 259262.584397
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001306
+  y: -77.390001563
+  z: -0.297
+YPR: 
+  x: 152.864
+  y: -0.014
+  z: 0.179
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 311
+  stamp: 
+    secs: 1652992547
+    nsecs:  30327052
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.6
+GPS_IMU_Time: 259262.604401
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001311
+  y: -77.390001574
+  z: -0.3
+YPR: 
+  x: 152.862
+  y: -0.016
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 312
+  stamp: 
+    secs: 1652992547
+    nsecs:  46491425
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.62
+GPS_IMU_Time: 259262.624401
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001316
+  y: -77.390001585
+  z: -0.302
+YPR: 
+  x: 152.859
+  y: -0.019
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 313
+  stamp: 
+    secs: 1652992547
+    nsecs:  67375125
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.64
+GPS_IMU_Time: 259262.644401
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001321
+  y: -77.390001596
+  z: -0.304
+YPR: 
+  x: 152.859
+  y: -0.021
+  z: 0.18
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 314
+  stamp: 
+    secs: 1652992547
+    nsecs:  88502614
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.66
+GPS_IMU_Time: 259262.664402
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001326
+  y: -77.390001607
+  z: -0.306
+YPR: 
+  x: 152.858
+  y: -0.021
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 315
+  stamp: 
+    secs: 1652992547
+    nsecs: 109334649
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.68
+GPS_IMU_Time: 259262.684403
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001331
+  y: -77.390001618
+  z: -0.309
+YPR: 
+  x: 152.855
+  y: -0.02
+  z: 0.182
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 316
+  stamp: 
+    secs: 1652992547
+    nsecs: 130319253
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.7
+GPS_IMU_Time: 259262.704404
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001336
+  y: -77.390001629
+  z: -0.311
+YPR: 
+  x: 152.853
+  y: -0.022
+  z: 0.18
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 317
+  stamp: 
+    secs: 1652992547
+    nsecs: 146423794
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.72
+GPS_IMU_Time: 259262.724406
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001341
+  y: -77.390001641
+  z: -0.313
+YPR: 
+  x: 152.852
+  y: -0.026
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 318
+  stamp: 
+    secs: 1652992547
+    nsecs: 167526563
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.74
+GPS_IMU_Time: 259262.744407
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001346
+  y: -77.390001652
+  z: -0.315
+YPR: 
+  x: 152.849
+  y: -0.026
+  z: 0.182
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 319
+  stamp: 
+    secs: 1652992547
+    nsecs: 188481890
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.76
+GPS_IMU_Time: 259262.764408
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001352
+  y: -77.390001663
+  z: -0.318
+YPR: 
+  x: 152.849
+  y: -0.025
+  z: 0.179
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 320
+  stamp: 
+    secs: 1652992547
+    nsecs: 210018203
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.78
+GPS_IMU_Time: 259262.784409
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001357
+  y: -77.390001674
+  z: -0.32
+YPR: 
+  x: 152.848
+  y: -0.025
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 321
+  stamp: 
+    secs: 1652992547
+    nsecs: 230291918
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.8
+GPS_IMU_Time: 259262.80441
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001362
+  y: -77.390001685
+  z: -0.322
+YPR: 
+  x: 152.846
+  y: -0.027
+  z: 0.18
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 322
+  stamp: 
+    secs: 1652992547
+    nsecs: 246388256
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.82
+GPS_IMU_Time: 259262.824411
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001367
+  y: -77.390001696
+  z: -0.325
+YPR: 
+  x: 152.843
+  y: -0.025
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 323
+  stamp: 
+    secs: 1652992547
+    nsecs: 267478006
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.84
+GPS_IMU_Time: 259262.844413
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001372
+  y: -77.390001707
+  z: -0.327
+YPR: 
+  x: 152.84
+  y: -0.026
+  z: 0.179
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 324
+  stamp: 
+    secs: 1652992547
+    nsecs: 288516386
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.86
+GPS_IMU_Time: 259262.864414
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001377
+  y: -77.390001719
+  z: -0.329
+YPR: 
+  x: 152.839
+  y: -0.029
+  z: 0.18
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 325
+  stamp: 
+    secs: 1652992547
+    nsecs: 309342013
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.88
+GPS_IMU_Time: 259262.884415
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001382
+  y: -77.39000173
+  z: -0.331
+YPR: 
+  x: 152.838
+  y: -0.031
+  z: 0.182
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 326
+  stamp: 
+    secs: 1652992547
+    nsecs: 330460300
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.9
+GPS_IMU_Time: 259262.904416
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001387
+  y: -77.390001741
+  z: -0.334
+YPR: 
+  x: 152.837
+  y: -0.03
+  z: 0.183
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 327
+  stamp: 
+    secs: 1652992547
+    nsecs: 346316570
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.92
+GPS_IMU_Time: 259262.924417
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001393
+  y: -77.390001752
+  z: -0.336
+YPR: 
+  x: 152.834
+  y: -0.029
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 328
+  stamp: 
+    secs: 1652992547
+    nsecs: 368312130
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.94
+GPS_IMU_Time: 259262.94442
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001398
+  y: -77.390001763
+  z: -0.338
+YPR: 
+  x: 152.833
+  y: -0.027
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 329
+  stamp: 
+    secs: 1652992547
+    nsecs: 389449601
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.96
+GPS_IMU_Time: 259262.96442
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001403
+  y: -77.390001774
+  z: -0.34
+YPR: 
+  x: 152.831
+  y: -0.028
+  z: 0.182
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 330
+  stamp: 
+    secs: 1652992547
+    nsecs: 410678440
+  frame_id: "F2003127"
+GPS_INS_Time: 259262.98
+GPS_IMU_Time: 259262.984423
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001408
+  y: -77.390001786
+  z: -0.343
+YPR: 
+  x: 152.828
+  y: -0.029
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 331
+  stamp: 
+    secs: 1652992547
+    nsecs: 426242810
+  frame_id: "F2003127"
+GPS_INS_Time: 259263.0
+GPS_IMU_Time: 259263.004422
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001413
+  y: -77.390001797
+  z: -0.345
+YPR: 
+  x: 152.826
+  y: -0.025
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 332
+  stamp: 
+    secs: 1652992547
+    nsecs: 448939501
+  frame_id: "F2003127"
+GPS_INS_Time: 259263.02
+GPS_IMU_Time: 259263.024423
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001418
+  y: -77.390001808
+  z: -0.347
+YPR: 
+  x: 152.824
+  y: -0.027
+  z: 0.182
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 333
+  stamp: 
+    secs: 1652992547
+    nsecs: 469769554
+  frame_id: "F2003127"
+GPS_INS_Time: 259263.04
+GPS_IMU_Time: 259263.044424
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001423
+  y: -77.390001819
+  z: -0.35
+YPR: 
+  x: 152.822
+  y: -0.03
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 334
+  stamp: 
+    secs: 1652992547
+    nsecs: 490458092
+  frame_id: "F2003127"
+GPS_INS_Time: 259263.06
+GPS_IMU_Time: 259263.064427
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001428
+  y: -77.39000183
+  z: -0.352
+YPR: 
+  x: 152.82
+  y: -0.027
+  z: 0.181
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 335
+  stamp: 
+    secs: 1652992547
+    nsecs: 506306954
+  frame_id: "F2003127"
+GPS_INS_Time: 259263.08
+GPS_IMU_Time: 259263.084427
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001433
+  y: -77.390001841
+  z: -0.354
+YPR: 
+  x: 152.818
+  y: -0.025
+  z: 0.18
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 336
+  stamp: 
+    secs: 1652992547
+    nsecs: 528646840
+  frame_id: "F2003127"
+GPS_INS_Time: 259263.1
+GPS_IMU_Time: 259263.104428
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001438
+  y: -77.390001853
+  z: -0.356
+YPR: 
+  x: 152.816
+  y: -0.023
+  z: 0.178
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 337
+  stamp: 
+    secs: 1652992547
+    nsecs: 549357507
+  frame_id: "F2003127"
+GPS_INS_Time: 259263.12
+GPS_IMU_Time: 259263.124429
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001443
+  y: -77.390001864
+  z: -0.359
+YPR: 
+  x: 152.814
+  y: -0.025
+  z: 0.179
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 338
+  stamp: 
+    secs: 1652992547
+    nsecs: 570412146
+  frame_id: "F2003127"
+GPS_INS_Time: 259263.14
+GPS_IMU_Time: 259263.14443
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001449
+  y: -77.390001875
+  z: -0.361
+YPR: 
+  x: 152.811
+  y: -0.027
+  z: 0.178
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 339
+  stamp: 
+    secs: 1652992547
+    nsecs: 586392302
+  frame_id: "F2003127"
+GPS_INS_Time: 259263.16
+GPS_IMU_Time: 259263.164432
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001454
+  y: -77.390001886
+  z: -0.363
+YPR: 
+  x: 152.809
+  y: -0.026
+  z: 0.178
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 340
+  stamp: 
+    secs: 1652992547
+    nsecs: 607552828
+  frame_id: "F2003127"
+GPS_INS_Time: 259263.18
+GPS_IMU_Time: 259263.184433
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001459
+  y: -77.390001897
+  z: -0.365
+YPR: 
+  x: 152.806
+  y: -0.025
+  z: 0.18
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 341
+  stamp: 
+    secs: 1652992547
+    nsecs: 628498100
+  frame_id: "F2003127"
+GPS_INS_Time: 259263.2
+GPS_IMU_Time: 259263.204435
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001464
+  y: -77.390001908
+  z: -0.368
+YPR: 
+  x: 152.804
+  y: -0.027
+  z: 0.182
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 342
+  stamp: 
+    secs: 1652992547
+    nsecs: 649284783
+  frame_id: "F2003127"
+GPS_INS_Time: 259263.22
+GPS_IMU_Time: 259263.224438
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001469
+  y: -77.39000192
+  z: -0.37
+YPR: 
+  x: 152.802
+  y: -0.026
+  z: 0.184
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
+header: 
+  seq: 343
+  stamp: 
+    secs: 1652992547
+    nsecs: 670247518
+  frame_id: "F2003127"
+GPS_INS_Time: 259263.24
+GPS_IMU_Time: 259263.244436
+GPS_mSOW: 
+  data: 0
+LLH: 
+  x: 39.040001474
+  y: -77.390001931
+  z: -0.372
+YPR: 
+  x: 152.8
+  y: -0.026
+  z: 0.182
+OriQuat: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.0
+Vel_ENU: 
+  x: -0.04
+  y: 0.02
+  z: -0.11
+Solution_Status: 
+  data: 0
+Pos_STD: 
+  x: 0.0
+  y: 0.0
+  z: 0.0
+Heading_STD: 0.0
+USW: 0
+---
