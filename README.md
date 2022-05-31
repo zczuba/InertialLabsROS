@@ -8,13 +8,13 @@ Once you have the Pi set up and inertiallabs_ros_pkgs installed (as detailed her
 
 2. Open up three terminal windows/tabs
 
-3. In the first terminal, run the command:\n
+3. In the first terminal, run the command:
    $ roscore
 
-4. In the second terminal, run the command:\n
+4. In the second terminal, run the command:
    $ rosrun inertiallabs_ins il_ins _ins_url:=serial:/dev/ttyUSB0:115200 _ins_output_format:=82
 
-5. In the third terminal, run the command:\n
+5. In the third terminal, run the command:
    $ rostopic echo /Inertial_Labs/ins_data >> <your_file_path/new_file.txt>
    // set whatever filepath you would like for a text file for the data to be saved at
 
